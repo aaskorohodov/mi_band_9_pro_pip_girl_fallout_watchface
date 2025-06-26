@@ -47,16 +47,16 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 
 <h3 style="text-align:center;">3 animations styles!</h3>
 
-<div align="center">
-  <div style="display:inline-block; text-align:center; width:23%; margin:0 1%;">
+<div style="text-align:center; font-size:0;">
+  <div style="display:inline-block; width:30%; margin:1%; font-size:14px;">
     <div style="font-weight:bold;">Decently dressed</div>
     <img src="share/V8/animations/v2.png" alt="v2" style="width:100%;">
   </div>
-  <div style="display:inline-block; text-align:center; width:23%; margin:0 1%;">
+  <div style="display:inline-block; width:30%; margin:1%; font-size:14px;">
     <div style="font-weight:bold;">Neckline</div>
     <img src="share/V8/animations/v3.png" alt="v3" style="width:100%;">
   </div>
-  <div style="display:inline-block; text-align:center; width:23%; margin:0 1%;">
+  <div style="display:inline-block; width:30%; margin:1%; font-size:14px;">
     <div style="font-weight:bold;">Suspenders</div>
     <img src="share/V8/animations/v4.png" alt="v4" style="width:100%;">
   </div>
