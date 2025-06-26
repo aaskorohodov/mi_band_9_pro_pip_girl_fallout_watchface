@@ -38,7 +38,7 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro!
 <h3 style="text-align:center;">Animated PipGirl!</h3>
 
 <p align="center">
-  <img src="share/V8/live_examples/animation.gif" alt="PipGirl_watchface_animation" style="width:23%; margin:0%">
+  <img src="share/V8/live_examples/animation.gif" alt="PipGirl_watchface_animation" style="width:50%; margin:0%">
 </p>
 
 Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fallout4/mods/38220)
