@@ -1,4 +1,4 @@
-<img src="share/v8/live_examples/HEADER.jpg" alt="Description" style="width:100%; height:auto;" />
+<img src="share/V8/live_examples/HEADER.jpg" alt="PipGirl_watchface" style="width:100%; height:auto;" />
 
 <!-- TOC -->
 * [Fallout PipGirl (PipBoy) watchface](#fallout-pipgirl-pipboy-watchface)
@@ -27,10 +27,10 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro!
 <h3 style="text-align:center;">Available in 4 colors!</h3>
 
 <p align="center">
-  <img src="share/v8/colors/cian.png" alt="img1" style="width:23%; margin:0%">
-  <img src="share/v8/colors/blue.png" alt="img2" style="width:23%; margin:0%">
-  <img src="share/v8/colors/yellow.png" alt="img3" style="width:23%; margin:0%">
-  <img src="share/v8/colors/gray.png" alt="img4" style="width:23%; margin:0%">
+  <img src="share/V8/colors/cian.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
+  <img src="share/V8/colors/blue.png" alt="PipGirl_watchface_Blue" style="width:23%; margin:0%">
+  <img src="share/V8/colors/yellow.png" alt="PipGirl_watchface_Yellow" style="width:23%; margin:0%">
+  <img src="share/V8/colors/gray.png" alt="PipGirl_watchface_Gray" style="width:23%; margin:0%">
 </p>
 
 ## Styles
@@ -38,7 +38,7 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro!
 <h3 style="text-align:center;">Animated PipGirl!</h3>
 
 <p align="center">
-  <img src="share/v8/live_examples/animation.gif" alt="img1" style="width:23%; margin:0%">
+  <img src="share/V8/live_examples/animation.gif" alt="PipGirl_watchface_animation" style="width:23%; margin:0%">
 </p>
 
 Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fallout4/mods/38220)
@@ -48,9 +48,9 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 <h3 style="text-align:center;">3 animations styles!</h3>
 
 <p align="center">
-  <img src="share/v8/animations/v2.png" alt="img1" style="width:23%; margin:0%">
-  <img src="share/v8/animations/v3.png" alt="img2" style="width:23%; margin:0%">
-  <img src="share/v8/animations/v4.png" alt="img3" style="width:23%; margin:0%">
+  <img src="share/V8/animations/v2.png" alt="PipGirl_watchface_animation_v1" style="width:23%; margin:0%">
+  <img src="share/V8/animations/v3.png" alt="PipGirl_watchface_animation_v2" style="width:23%; margin:0%">
+  <img src="share/V8/animations/v4.png" alt="PipGirl_watchface_animation_v3" style="width:23%; margin:0%">
 </p>
 
 ### Static
@@ -58,19 +58,19 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 <h3 style="text-align:center;">1 additional static version!</h3>
 
 <p align="center">
-  <img src="share/v8/animations/v1.png" alt="img1" style="width:23%; margin:0%">
+  <img src="share/V8/animations/v1.png" alt="PipGirl_watchface_static_version" style="width:23%; margin:0%">
 </p>
 
 ## Data
 
 <p align="center">
-  <img src="share/v8/data_expl.png" alt="img1" style="width:99%; margin:0%">
+  <img src="share/V8/data_expl.png" alt="PipGirl_watchface_data_explained" style="width:99%; margin:0%">
 </p>
 
 ## Tap-zones
 
 <p align="center">
-  <img src="share/v8/tap_zones.png" alt="img1" style="width:99%; margin:0%">
+  <img src="share/V8/tap_zones.png" alt="PipGirl_watchface_tap_zones_explained" style="width:99%; margin:0%">
 </p>
 
 
