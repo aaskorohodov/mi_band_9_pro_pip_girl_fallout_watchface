@@ -25,16 +25,17 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro!
 
 ## Colors
 
-<h3 style="text-align:center;">Available in 5 colors!</h3>
+<h3 style="text-align:center;">Available in 6 colors!</h3>
 
 <p align="center">
-  <img src="share/V8/colors/blue.png" alt="PipGirl_watchface_Blue" style="width:23%; margin:0%">
-  <img src="share/V8/colors/yellow.png" alt="PipGirl_watchface_Yellow" style="width:23%; margin:0%">
-  <img src="share/V8/colors/gray.png" alt="PipGirl_watchface_Gray" style="width:23%; margin:0%">
-  <img src="share/V8/colors/orange.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
+  <img src="share/V10/colors/blue.png" alt="PipGirl_watchface_Blue" style="width:23%; margin:0%">
+  <img src="share/V10/colors/yellow.png" alt="PipGirl_watchface_Yellow" style="width:23%; margin:0%">
+  <img src="share/V10/colors/gray.png" alt="PipGirl_watchface_Gray" style="width:23%; margin:0%">
+  <img src="share/V10/colors/orange.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
 </p>
 <p align="center">
-  <img src="share/V8/colors/cian.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
+  <img src="share/V10/colors/cian.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
+<img src="share/V10/colors/fuchsia.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
 </p>
 
 ## Styles
@@ -52,9 +53,9 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 <h3 style="text-align:center;">3 animations styles!</h3>
 
 <p align="center">
-  <img src="share/V8/animations/v2.png" alt="PipGirl_watchface_animation_v1" style="width:23%; margin:0%">
-  <img src="share/V8/animations/v3.png" alt="PipGirl_watchface_animation_v2" style="width:23%; margin:0%">
-  <img src="share/V8/animations/v4.png" alt="PipGirl_watchface_animation_v3" style="width:23%; margin:0%">
+  <img src="share/V10/animation/v2.png" alt="PipGirl_watchface_animation_v1" style="width:23%; margin:0%">
+  <img src="share/V10/animation/v3.png" alt="PipGirl_watchface_animation_v2" style="width:23%; margin:0%">
+  <img src="share/V10/animation/v4.png" alt="PipGirl_watchface_animation_v3" style="width:23%; margin:0%">
 </p>
 
 ### Static
@@ -62,19 +63,19 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 <h3 style="text-align:center;">1 additional static version!</h3>
 
 <p align="center">
-  <img src="share/V8/animations/v1.png" alt="PipGirl_watchface_static_version" style="width:23%; margin:0%">
+  <img src="share/V10/animation/v1.png" alt="PipGirl_watchface_static_version" style="width:23%; margin:0%">
 </p>
 
 ## Data
 
 <p align="center">
-  <img src="share/V8/data_expl.png" alt="PipGirl_watchface_data_explained" style="width:99%; margin:0%">
+  <img src="share/V10/data_expl.png" alt="PipGirl_watchface_data_explained" style="width:99%; margin:0%">
 </p>
 
 ## Tap-zones
 
 <p align="center">
-  <img src="share/V8/tap_zones.png" alt="PipGirl_watchface_tap_zones_explained" style="width:99%; margin:0%">
+  <img src="share/V10/tap_zones.png" alt="PipGirl_watchface_tap_zones_explained" style="width:99%; margin:0%">
 </p>
 
 
@@ -92,33 +93,39 @@ with watchface settings, and you can install all of them!
 
 ### Cian
 
-[Static VaultGirl + Animation decently dressed](share/V9/watchfaces/Cian_VaultGirl_v9_1.face)
+[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Cian_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V9/watchfaces/Cian_VaultGirl_v9_2.face)
+[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Cian_VaultGirl_v10_2.face)
 
 ### Blue
 
-[Static VaultGirl + Animation decently dressed](share/V9/watchfaces/Blue_VaultGirl_v9_1.face)
+[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Blue_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V9/watchfaces/Blue_VaultGirl_v9_2.face)
+[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Blue_VaultGirl_v10_2.face)
 
 ### Yellow
 
-[Static VaultGirl + Animation decently dressed](share/V9/watchfaces/Yellow_VaultGirl_v9_1.face)
+[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Yellow_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V9/watchfaces/Yellow_VaultGirl_v9_2.face)
+[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Yellow_VaultGirl_v10_2.face)
 
 ### Gray
 
-[Static VaultGirl + Animation decently dressed](share/V9/watchfaces/Gray_VaultGirl_v9_1.face)
+[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Gray_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V9/watchfaces/Gray_VaultGirl_v9_2.face)
+[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Gray_VaultGirl_v10_2.face)
 
 ### Orange
 
-[Static VaultGirl + Animation decently dressed](share/V9/watchfaces/Orange_VaultGirl_v9_1.face)
+[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Orange_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V9/watchfaces/Orange_VaultGirl_v9_2.face)
+[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Orange_VaultGirl_v10_2.face)
+
+### Fuchsia
+
+[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Fuchsia_VaultGirl_v10_1.face)
+
+[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Fuchsia_VaultGirl_v10_2.face)
 
 ## How to Install
 

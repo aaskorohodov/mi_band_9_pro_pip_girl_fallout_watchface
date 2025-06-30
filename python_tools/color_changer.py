@@ -50,5 +50,5 @@ if __name__ == "__main__":
     gray   = (222, 222, 222)
     yellow = (255, 237, 0)
     orange = (255, 80, 0)
-    new_rgb_color = orange
-    process_folder(target_folder, new_rgb_color)
+    fux    = (169, 0, 255)
+    process_folder(target_folder, fux)
