@@ -19,9 +19,9 @@
     * [Recommendations](#recommendations)
     * [Changing color](#changing-color)
 <!-- TOC -->
-# Fallout PipGirl (PipBoy) watchface
+# Fallout PipGirl (PipBoy) watchface for Mi Band 9 Pro
 
-Fallout inspired, PipBoy style watchface for MiBand 9 pro! 
+Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Band 8 pro
 
 ## Colors
 
