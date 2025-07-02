@@ -137,21 +137,21 @@ Here a short instruction:
 
 0. Tested on Galaxy S25, Mi Band 9 Pro
 1. If you have Mi Fitness (official app) installed:
-   2. Long press on App's icon
-   2. Open settings
-   3. Turn "Nearby Devices" off
-   4. Close Mi Fitness
-4. Install Notify for Mi Band & Xiaomi (orange one, blue one for older Mi Band versions)
-5. Do what it wants, save your pair-key, don't sync data to Notify for Mi Band & Xiaomi
-6. Go directly to watchfaces tab, install one-by-one all watchfaces you want:
-   7. Use install custom from .bin, it works fine with .face files
-   8. Install one by one, then open watchface to check if installed successfully, reinstall if needed
-   9. In my case Mi Band was occasionally freezing for a minute or so, then restarted itself
-   10. To avoid freezes – give it a time! Mi Band reads each installed WatchFace to obtain preview, which takes a second
-11. Notify for Mi Band & Xiaomi don't provide weather, so uninstall it after you done
-12. Allow Mi Fitness (official app) to use "Nearby Devices"
-13. Sync data with Mi Fitness
-14. Done!
+- Long press on App's icon 
+- Open settings 
+- Turn "Nearby Devices" off 
+- Close Mi Fitness
+2. Install Notify for Mi Band & Xiaomi (orange one, blue one for older Mi Band versions)
+3. Do what it wants, save your pair-key, don't sync data to Notify for Mi Band & Xiaomi
+4. Go directly to watchfaces tab, install one-by-one all watchfaces you want:
+- Use install custom from .bin, it works fine with .face files 
+- Install one by one, then open watchface to check if installed successfully, reinstall if needed 
+- In my case Mi Band was occasionally freezing for a minute or so, then restarted itself 
+- To avoid freezes – give it a time! Mi Band reads each installed WatchFace to obtain preview, which takes a second
+5. Notify for Mi Band & Xiaomi don't provide weather, so uninstall it after you done
+6. Allow Mi Fitness (official app) to use "Nearby Devices"
+7. Sync data with Mi Fitness
+8. Done!
 
 
 ## How to modify these watchface?
