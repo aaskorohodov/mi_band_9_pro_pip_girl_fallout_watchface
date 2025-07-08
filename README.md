@@ -1,7 +1,7 @@
 <img src="share/V8/live_examples/HEADER.jpg" alt="PipGirl_watchface" style="width:100%; height:auto;" />
 
 <!-- TOC -->
-* [Fallout PipGirl (PipBoy) watchface for Mi Band 9 Pro](#fallout-pipgirl-pipboy-watchface-for-mi-band-9-pro)
+* [Fallout PipGirl (PipBoy) watchface for Mi Band 9/8 Pro](#fallout-pipgirl-pipboy-watchface-for-mi-band-98-pro)
   * [Colors](#colors)
   * [Styles](#styles)
     * [Animated](#animated)
@@ -15,6 +15,7 @@
     * [Gray](#gray)
     * [Orange](#orange)
     * [Fuchsia](#fuchsia)
+    * [Blueberry Yogurt](#blueberry-yogurt)
   * [How to Install](#how-to-install)
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
