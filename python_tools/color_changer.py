@@ -51,5 +51,5 @@ if __name__ == "__main__":
     yellow           = (255, 237, 0)
     orange           = (255, 80, 0)
     fux              = (169, 0, 255)
-    blueberry_yogurt = (180, 117, 244)
+    blueberry_yogurt = (186, 139, 239)
     process_folder(target_folder, blueberry_yogurt)
