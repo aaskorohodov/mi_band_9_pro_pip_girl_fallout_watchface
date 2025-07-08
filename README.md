@@ -20,13 +20,13 @@
     * [Recommendations](#recommendations)
     * [Changing color](#changing-color)
 <!-- TOC -->
-# Fallout PipGirl (PipBoy) watchface for Mi Band 9 Pro
+# Fallout PipGirl (PipBoy) watchface for Mi Band 9/8 Pro
 
 Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Band 8 pro
 
 ## Colors
 
-<h3 style="text-align:center;">Available in 6 colors!</h3>
+<h3 style="text-align:center;">Available in 7 colors!</h3>
 
 <p align="center">
   <img src="share/V10/colors/blue.png" alt="PipGirl_watchface_Blue" style="width:23%; margin:0%">
@@ -36,7 +36,8 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
 </p>
 <p align="center">
   <img src="share/V10/colors/cian.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
-<img src="share/V10/colors/fuchsia.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
+  <img src="share/V10/colors/fuchsia.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
+  <img src="share/V10/colors/blueberry_yogurt.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
 </p>
 
 ## Styles
@@ -96,37 +97,43 @@ with watchface settings, and you can install all of them!
 
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Cian_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Cian_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Cian_VaultGirl_v10_2.face)
 
 ### Blue
 
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Blue_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Blue_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Blue_VaultGirl_v10_2.face)
 
 ### Yellow
 
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Yellow_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Yellow_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Yellow_VaultGirl_v10_2.face)
 
 ### Gray
 
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Gray_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Gray_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Gray_VaultGirl_v10_2.face)
 
 ### Orange
 
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Orange_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Orange_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Orange_VaultGirl_v10_2.face)
 
 ### Fuchsia
 
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Fuchsia_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation pants + suspenders](share/V10/watchfaces/Fuchsia_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Fuchsia_VaultGirl_v10_2.face)
+
+### Blueberry Yogurt
+
+[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Blueberry_VaultGirl_v10_1.face)
+
+[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Blueberry_VaultGirl_v10_2.face)
 
 ## How to Install
 

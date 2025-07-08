@@ -46,9 +46,10 @@ def process_folder(folder_path: str,
 
 if __name__ == "__main__":
     target_folder = r"C:\Users\DY\PycharmProjects\mi_band_9_pro_pip_girl_fallout_watchface\media_src\converter"  # ← change this!
-    blue   = (8, 141, 230)
-    gray   = (222, 222, 222)
-    yellow = (255, 237, 0)
-    orange = (255, 80, 0)
-    fux    = (169, 0, 255)
-    process_folder(target_folder, fux)
+    blue             = (8, 141, 230)
+    gray             = (222, 222, 222)
+    yellow           = (255, 237, 0)
+    orange           = (255, 80, 0)
+    fux              = (169, 0, 255)
+    blueberry_yogurt = (180, 117, 244)
+    process_folder(target_folder, blueberry_yogurt)
