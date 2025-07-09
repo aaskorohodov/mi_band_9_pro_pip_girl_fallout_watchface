@@ -30,16 +30,39 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
 <h3 style="text-align:center;">Available in 7 colors!</h3>
 
 <p align="center">
-  <img src="share/V10/colors/blue.png" alt="PipGirl_watchface_Blue" style="width:23%; margin:0%">
-  <img src="share/V10/colors/yellow.png" alt="PipGirl_watchface_Yellow" style="width:23%; margin:0%">
-  <img src="share/V10/colors/gray.png" alt="PipGirl_watchface_Gray" style="width:23%; margin:0%">
-  <img src="share/V10/colors/orange.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
+  <div style="display:inline-block; text-align:center; width:23%; margin:0%">
+    <div>Blue</div>
+    <img src="share/V10/colors/blue.png" alt="PipGirl_watchface_Blue" style="width:100%">
+  </div>
+  <div style="display:inline-block; text-align:center; width:23%; margin:0%">
+    <div>Yellow</div>
+    <img src="share/V10/colors/yellow.png" alt="PipGirl_watchface_Yellow" style="width:100%">
+  </div>
+  <div style="display:inline-block; text-align:center; width:23%; margin:0%">
+    <div>Gray</div>
+    <img src="share/V10/colors/gray.png" alt="PipGirl_watchface_Gray" style="width:100%">
+  </div>
+  <div style="display:inline-block; text-align:center; width:23%; margin:0%">
+    <div>Orange</div>
+    <img src="share/V10/colors/orange.png" alt="PipGirl_watchface_Orange" style="width:100%">
+  </div>
 </p>
+
 <p align="center">
-  <img src="share/V10/colors/cian.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
-  <img src="share/V10/colors/fuchsia.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
-  <img src="share/V10/colors/blueberry_yogurt.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
+  <div style="display:inline-block; text-align:center; width:23%; margin:0%">
+    <div>Cyan</div>
+    <img src="share/V10/colors/cian.png" alt="PipGirl_watchface_Cian" style="width:100%">
+  </div>
+  <div style="display:inline-block; text-align:center; width:23%; margin:0%">
+    <div>Fuchsia</div>
+    <img src="share/V10/colors/fuchsia.png" alt="PipGirl_watchface_Fuchsia" style="width:100%">
+  </div>
+  <div style="display:inline-block; text-align:center; width:23%; margin:0%">
+    <div>Blueberry Yogurt</div>
+    <img src="share/V10/colors/blueberry_yogurt.png" alt="PipGirl_watchface_Blueberry_Yogurt" style="width:100%">
+  </div>
 </p>
+
 
 ## Styles
 
