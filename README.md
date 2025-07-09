@@ -34,37 +34,37 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
   <tr>
     <td align="center">
       <div>Blue</div>
-      <img src="share/V10/colors/blue.png" alt="Blue" style="width:120px;">
+      <img src="share/V10/colors/blue.png" alt="Blue" style="width:90%;">
     </td>
     <td align="center">
       <div>Yellow</div>
-      <img src="share/V10/colors/yellow.png" alt="Yellow" style="width:120px;">
+      <img src="share/V10/colors/yellow.png" alt="Yellow" style="width:90%;">
     </td>
     <td align="center">
       <div>Gray</div>
-      <img src="share/V10/colors/gray.png" alt="Gray" style="width:120px;">
+      <img src="share/V10/colors/gray.png" alt="Gray" style="width:90%;">
     </td>
     <td align="center">
       <div>Ninja Gray</div>
-      <img src="share/V10/colors/ninja_gray.png" alt="Ninja Gray" style="width:120px;">
+      <img src="share/V10/colors/ninja_gray.png" alt="Ninja Gray" style="width:90%;">
     </td>
   </tr>
   <tr>
     <td align="center">
       <div>Orange</div>
-      <img src="share/V10/colors/orange.png" alt="Orange" style="width:120px;">
+      <img src="share/V10/colors/orange.png" alt="Orange" style="width:90%;">
     </td>
     <td align="center">
       <div>Cyan</div>
-      <img src="share/V10/colors/cian.png" alt="Cyan" style="width:120px;">
+      <img src="share/V10/colors/cian.png" alt="Cyan" style="width:90%;">
     </td>
     <td align="center">
       <div>Fuchsia</div>
-      <img src="share/V10/colors/fuchsia.png" alt="Fuchsia" style="width:120px;">
+      <img src="share/V10/colors/fuchsia.png" alt="Fuchsia" style="width:90%;">
     </td>
     <td align="center">
       <div>Blueberry Yogurt</div>
-      <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt" style="width:120px;">
+      <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt" style="width:90%;">
     </td>
   </tr>
 </table>
