@@ -258,8 +258,12 @@ unique name, or it will replace already installed one with the same ID.
 
 ## FAQ
 
-- Does this watchface drains battery any faster?
-- Testing is in progress. It looks like animated versions have some effect. Will update in several weeks
+> **Does this watchface drains battery any faster?** 
+> > Testing is in progress. It looks like animated versions have some effect. Will update in several weeks
+
+> **Why so many colors?**
+> > I have ordered a bunch of different straps for Mi Band, something like 15, and trying to match a color of 
+> > watchface to each strap. So there probably would be more colors as more and more straps arriving)
 
 ## Known issues
 
