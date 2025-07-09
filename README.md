@@ -244,17 +244,23 @@ with pro 9, so build for Pro 8. Or use any other software
 ### Changing color
 
 If you familiar with Python, you can change color [with this](python_tools/color_changer.py)
+
 [Get convertable images from here](media_src/CONVERTABLE_IMAGES/AUTOMATIC) all there images can be converted with that
-script. [These images](media_src/CONVERTABLE_IMAGES/COMMON) can typically stay the same for any watchface color.
+script.
+
+[These images](media_src/CONVERTABLE_IMAGES/COMMON) should typically stay the same for any watchface color.
+
 [And these image](media_src/CONVERTABLE_IMAGES/MANUAL) need to be converted manually using photoshop or similar tool.
 
-[These 3 folders](media_src/CONVERTABLE_IMAGES) are all the images used for each of my watchfaces. After converting them
-to a color you like, place them in a folder images [for any watchface in here](watchfaces_src) and open any of the
-project file, for example [this one](watchfaces_src/PipGirlProject/PipGirlProject_d.fprj). It will automatically 
-apply your images with new color. Now you can build new watchface using MiCrate.
+Overall [these 3 folders](media_src/CONVERTABLE_IMAGES) are all the images used for each watchface.
+
+After converting them to a color you like, place them in a folder "images" [for any watchface in here](watchfaces_src)
+and open any of the project file, for example [this one](watchfaces_src/PipGirlProject/PipGirlProject_d.fprj) 
+with MiCreate. It will automatically apply your images (with new color) as they have the same names. 
+Now you can build new watchface using MiCrate.
 
 Note, that you will also need to change Watchface ID under 'File' -> 'Manage project'. Each watchface should have 
-unique name, or it will replace already installed one with the same ID.
+unique ID, or it will replace already installed one with the same ID.
 
 ## FAQ
 
