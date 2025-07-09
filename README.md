@@ -21,6 +21,8 @@
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
     * [Changing color](#changing-color)
+  * [FAQ](#faq)
+  * [Known issues](#known-issues)
 <!-- TOC -->
 # Fallout PipGirl (PipBoy) watchface for Mi Band 9/8 Pro
 
@@ -85,9 +87,9 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 <h3 style="text-align:center;">3 animations styles!</h3>
 
 <p align="center">
-  <img src="share/V10/animation/v2.png" alt="PipGirl_watchface_animation_v1" style="width:23%; margin:0%">
-  <img src="share/V10/animation/v3.png" alt="PipGirl_watchface_animation_v2" style="width:23%; margin:0%">
-  <img src="share/V10/animation/v4.png" alt="PipGirl_watchface_animation_v3" style="width:23%; margin:0%">
+  <img src="share/V10/animation/v2.png" alt="PipGirl_watchface_miband_9_8_animation_v1" style="width:23%; margin:0%">
+  <img src="share/V10/animation/v3.png" alt="PipGirl_watchface_miband_9_8_animation_v2" style="width:23%; margin:0%">
+  <img src="share/V10/animation/v4.png" alt="PipGirl_watchface_miband_9_8_animation_v3" style="width:23%; margin:0%">
 </p>
 
 ### Static
@@ -95,7 +97,15 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 <h3 style="text-align:center;">1 additional static version!</h3>
 
 <p align="center">
-  <img src="share/V10/animation/v1.png" alt="PipGirl_watchface_static_version" style="width:23%; margin:0%">
+  <img src="share/V10/animation/v1.png" alt="PipGirl_watchface_miband_9_8_static_version" style="width:23%; margin:0%">
+</p>
+
+Different colors may have different static-image (static version of watchface, the one without animation), for example:
+
+<p align="center">
+  <img src="share/V10/static_examples/blue_static.png" alt="PipGirl_watchface_miband_9_8_blue_static" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/ninja_gray_static.png" alt="PipGirl_watchface_miband_9_8_ninja_gray_static" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/blueberry_yogurt_static.png" alt="PipGirl_watchface_miband_9_8_blueberry_yogurt_static" style="width:23%; margin:0%">
 </p>
 
 ## Data
@@ -245,3 +255,36 @@ apply your images with new color. Now you can build new watchface using MiCrate.
 
 Note, that you will also need to change Watchface ID under 'File' -> 'Manage project'. Each watchface should have 
 unique name, or it will replace already installed one with the same ID.
+
+## FAQ
+
+- Does this watchface drains battery any faster?
+- Testing is in progress. It looks like animated versions have some effect. Will update in several weeks
+
+## Known issues
+
+Sometimes MiBand copies animation (VaultGirl) into 5 - 10 instances, spreading them across the screen. In this case
+open Watchface settings, swipe up-down to other animation version and set watchface again.
+
+After first installation preview on MiBand is taken from Watchfaces' files. It looks a bit different from actual
+watchface. MiBand resets preview after opening settings for concrete watchface and keeps it right after that.
+
+Weather icons are not completely tested. Icons are set after 'weather index', and there a lots of them. I was not
+able to find any complete description, so took some other watchface and copied its indices. There might be an issue
+with weather icon, when it would display NOT the actual weather. I am currently collecting indices with their 
+descriptions to see, if any are wrong. In static of Cian watchface 
+[in here](watchfaces_src/PipGirlProject/Extra/output/Cian_VaultGirl_v10_1.face) watchface displays actual index it reads
+from weather provider. This is how I keep track and compare indices. Collection them all might take a while) 
+Here what I currently have:
+
+- 004 – [Thunder + rain]
+- 001 – [Partly cloudy]
+- 008 – [Moderate rain]
+- 000 – [Clear]
+
+I was not able to create a button for Oxygen. No idea why and how to do that.
+
+There might be an issue with weather alerts for negative temperatures – did not test yet, waiting for winter)
+
+No idea what would happen in case IV-index goes above 10. MiCreate crashes if trying to set a value for UV=11 or 
+higher. Probably the bar will just stick to its upper limit, so should be ok.
