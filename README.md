@@ -13,6 +13,7 @@
     * [Blue](#blue)
     * [Yellow](#yellow)
     * [Gray](#gray)
+    * [Ninja Gray](#ninja-gray)
     * [Orange](#orange)
     * [Fuchsia](#fuchsia)
     * [Blueberry Yogurt](#blueberry-yogurt)
@@ -27,19 +28,47 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
 
 ## Colors
 
-<h3 style="text-align:center;">Available in 7 colors!</h3>
+<h3 style="text-align:center;">Available in 8 colors!</h3>
 
-<p align="center">
-  <img src="share/V10/colors/blue.png" alt="PipGirl_watchface_Blue" style="width:23%; margin:0%">
-  <img src="share/V10/colors/yellow.png" alt="PipGirl_watchface_Yellow" style="width:23%; margin:0%">
-  <img src="share/V10/colors/gray.png" alt="PipGirl_watchface_Gray" style="width:23%; margin:0%">
-  <img src="share/V10/colors/orange.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
-</p>
-<p align="center">
-  <img src="share/V10/colors/cian.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
-  <img src="share/V10/colors/fuchsia.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
-  <img src="share/V10/colors/blueberry_yogurt.png" alt="PipGirl_watchface_Cian" style="width:23%; margin:0%">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <div>Blue</div>
+      <img src="share/V10/colors/blue.png" alt="Blue" style="width:120px;">
+    </td>
+    <td align="center">
+      <div>Yellow</div>
+      <img src="share/V10/colors/yellow.png" alt="Yellow" style="width:120px;">
+    </td>
+    <td align="center">
+      <div>Gray</div>
+      <img src="share/V10/colors/gray.png" alt="Gray" style="width:120px;">
+    </td>
+    <td align="center">
+      <div>Ninja Gray</div>
+      <img src="share/V10/colors/ninja_gray.png" alt="Ninja Gray" style="width:120px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <div>Orange</div>
+      <img src="share/V10/colors/orange.png" alt="Orange" style="width:120px;">
+    </td>
+    <td align="center">
+      <div>Cyan</div>
+      <img src="share/V10/colors/cian.png" alt="Cyan" style="width:120px;">
+    </td>
+    <td align="center">
+      <div>Fuchsia</div>
+      <img src="share/V10/colors/fuchsia.png" alt="Fuchsia" style="width:120px;">
+    </td>
+    <td align="center">
+      <div>Blueberry Yogurt</div>
+      <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt" style="width:120px;">
+    </td>
+  </tr>
+</table>
+
 
 ## Styles
 
@@ -117,6 +146,12 @@ with watchface settings, and you can install all of them!
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Gray_VaultGirl_v10_1.face)
 
 [Animation with a neckline + Animation suspenders](share/V10/watchfaces/Gray_VaultGirl_v10_2.face)
+
+### Ninja Gray
+
+[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10_1.face)
+
+[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10_2.face)
 
 ### Orange
 
