@@ -223,7 +223,7 @@ https://4pda.to/forum/index.php?showtopic=1076706&st=740#entry135696472
 [Same file in this repo](MiCreate.exe)
 
 It needs to be installed. I was not able to open watchface-project files with 
-[EasyFace](https://github.com/m0tral/EasyFace), seems like these 2 apps does not support each other's files.
+[EasyFace](https://github.com/m0tral/EasyFace/wiki/HomeEN), seems like these 2 apps does not support each other's files.
 
 You can find source files for each watchface in this repo, including images:
 
