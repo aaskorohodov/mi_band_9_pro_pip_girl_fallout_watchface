@@ -223,7 +223,7 @@ https://4pda.to/forum/index.php?showtopic=1076706&st=740#entry135696472
 [Same file in this repo](MiCreate.exe)
 
 It needs to be installed. I was not able to open watchface-project files with 
-[EasyFace](https://github.com/m0tral/EasyFace/wiki/HomeEN), seems like these 2 apps does not support each other's files.
+[EasyFace](https://github.com/m0tral/EasyFace), seems like these 2 apps does not support each other's files.
 
 You can find source files for each watchface in this repo, including images:
 
@@ -256,7 +256,7 @@ with pro 9, so build for Pro 8. Or use any other software
 
 ### Recommendations
 
-- Use this wiki as an instruction for MiCreate: https://github.com/m0tral/EasyFace (same for MiCreate and EasyFace)
+- Use this wiki as an instruction for MiCreate: https://github.com/m0tral/EasyFace/wiki/HomeEN (same for MiCreate and EasyFace)
 - I was only able to build 2 color into a single .face file
 - With more than 2 WatchFace Mi Band can NOT install a file (probably due file size)
 - To pack several watchfaces into a single file, create 2 project files (.fprj) in the same folder and build from MiCreate using any of them
