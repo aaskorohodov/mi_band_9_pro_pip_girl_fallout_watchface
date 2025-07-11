@@ -310,6 +310,9 @@ unique ID, or it will replace already installed one with the same ID on you Mi B
 > > I have ordered a bunch of different straps for Mi Band, something like 15, and trying to match a color of 
 > > watchface to each strap. So there probably would be more colors as more and more straps arriving)
 
+> **Can you change color for me or do some other adjustments I want?**
+> > Sure! Just [e-mail me](https://www.youtube.com/watch?v=dQw4w9WgXcQ) with what you want and I will send your watchface!
+
 ## Known issues
 
 Sometimes MiBand copies animation (VaultGirl) into 5 - 10 instances, spreading them across the screen. In this case
