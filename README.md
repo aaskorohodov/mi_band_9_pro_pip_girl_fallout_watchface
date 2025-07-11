@@ -126,7 +126,7 @@ Different colors may have different static-image (static version of watchface, t
 Each color has 2 watchface files:
 
 1. Static VaultGirl + Animation decently dressed
-2. Animation with a neckline + Animation pants + suspenders
+2. Animation with a neckline + Animation suspenders
 
 This is due to a heavy files, Mi Band can not handle too many animations. You can select desired animation style 
 with watchface settings, and you can install all of them!
@@ -186,30 +186,37 @@ with watchface settings, and you can install all of them!
 I was using [Notify for Mi Band & Xiaomi](https://play.google.com/store/apps/details?id=com.mc.xiaomi1&hl=en),
 but there are other ways too.
 
+- Notify for Mi Band & Xiaomi (NfMBX) – third party app, orange one
+- Mi Fitness – official app
+
 Here a short instruction:
 
 0. Tested on Galaxy S25, Mi Band 9 Pro
 1. If you have Mi Fitness (official app) installed:
+- Sync data from MiBand to Mi Fitness (official app)
 - Long press on App's icon 
 - Open settings 
-- Turn "Nearby Devices" off 
-- Close Mi Fitness
+- Turn "Nearby Devices" off (to let NfMBX connect to MiBand)
+- Close Mi Fitness (completely, swipe in away in 'recent apps')
 2. Install Notify for Mi Band & Xiaomi (orange one, blue one for older Mi Band versions)
 3. Do what it wants, save your pair-key, don't sync data to Notify for Mi Band & Xiaomi
-4. Go directly to watchfaces tab, install one-by-one all watchfaces you want:
+- It will ask you to provide credentials from Mi Fitness account to get pair-key
+- If this app have troubles finding you Mi Band, you can use MAC Address of Mi Band (there is such option)
+- MAC Address can be found on your Mi Band directly – open settings -> About -> MAC Address
+4. When (if) connected go directly to watchfaces tab, install one-by-one all watchfaces you want:
 - Use install custom from .bin, it works fine with .face files 
-- Install one by one, then open watchface to check if installed successfully, reinstall if needed 
+- Install one by one, each time open watchface to check if installed successfully, reinstall if needed 
 - In my case Mi Band was occasionally freezing for a minute or so, then restarted itself 
 - To avoid freezes – give it a time! Mi Band reads each installed WatchFace to obtain preview, which takes a second
 5. Notify for Mi Band & Xiaomi don't provide weather, so uninstall it after you done
-6. Allow Mi Fitness (official app) to use "Nearby Devices"
+6. Allow Mi Fitness (official app) to use "Nearby Devices" again
 7. Sync data with Mi Fitness
 8. Done!
 
 
 ## How to modify these watchface?
 
-I was using MiCreate on Windows 11, I ttok it from here, it is .exe:
+I was using MiCreate on Windows 11, I took it from here, it is .exe:
 
 https://4pda.to/forum/index.php?showtopic=1076706&st=740#entry135696472
 
@@ -224,19 +231,39 @@ You can find source files for each watchface in this repo, including images:
 
 [images](media_src)
 
+For each color you can find a file of a watchface in 'output' folder, it has .face extension, for example:
+
+[in this folder](watchfaces_src/PipGirlProject%20-%20Blueberry%20Yogurt/output)
+[this file](watchfaces_src/PipGirlProject%20-%20Blueberry%20Yogurt/output/Blueberry_VaultGirl_v10_2.face)
+
+This file has 2 watchfaces, both with animated versions of PipGirl.
+
+There is also a folder 'extra' which has the same structure and in 'output' folder there you can find another file:
+
+[this one](watchfaces_src/PipGirlProject%20-%20Blueberry%20Yogurt/Extra/output/Blueberry_VaultGirl_v10_1.face)
+
+This file has also 2 watchfaces, one with static PipGirl, and with animated version.
+
+So overall these 2 .face files have 4 versions:
+
+- Statis (...v10_1.face)  <- 1
+- Animated decently dressed (...v10_1.face)  <- 1
+- Animated with neckline (...v10_2.face)  <- 2
+- Animated with suspenders (...v10_2.face)  <- 2
+
 **IMPORTANT** This exact version of MiCreate can only build for MiBand 8 pro for some reason. But, it works just fine
 with pro 9, so build for Pro 8. Or use any other software
 
 ### Recommendations
 
 - Use this wiki as an instruction for MiCreate: https://github.com/m0tral/EasyFace (same for MiCreate and EasyFace)
-- I was only able to build 2 color into a single file
-- With more than 2 WatchFace Mi Band can not install a file (probably due file size)
+- I was only able to build 2 color into a single .face file
+- With more than 2 WatchFace Mi Band can NOT install a file (probably due file size)
 - To pack several watchfaces into a single file, create 2 project files (.fprj) in the same folder and build from MiCreate using any of them
 - You need to have a folder 'images' with all media, used for a watchface, right next to project file (.fprj)
 - You must have a file example.png in images folder, it should be 336x480 to build a watchface
 - MiCreate is full of bugs
-- Save all you data by literally copying project file to another folder
+- Save all your data by literally copying project file to another folder from time to time
 - In case of any error message, there is 50/50 chance that your current project-file is corrupted, no matter what you do next
 - No, saving project with "save" button will not help – save project file to another place, when you sure it's buildable
 
@@ -245,22 +272,34 @@ with pro 9, so build for Pro 8. Or use any other software
 
 If you familiar with Python, you can change color [with this](python_tools/color_changer.py)
 
-[Get convertable images from here](media_src/CONVERTABLE_IMAGES/AUTOMATIC) all there images can be converted with that
-script.
+[Get convertable images from here](media_src/CONVERTABLE_IMAGES/AUTOMATIC) all these images can be converted with that
+script (or manually, you expect to live forever)
 
-[These images](media_src/CONVERTABLE_IMAGES/COMMON) should typically stay the same for any watchface color.
+[These images](media_src/CONVERTABLE_IMAGES/COMMON) should typically stay the same for any watchface color. This is because
+there is yellow and red colors which are intended to stay this way in any watchface to indicate some information, like
+low battery for example. You may recolor them too, but in this case your (for example) battery indicator will not 
+become red (or yellow) at low charge.
 
 [And these image](media_src/CONVERTABLE_IMAGES/MANUAL) need to be converted manually using photoshop or similar tool.
+This is because there is a bit or red color, which intended to be a signaling color.
 
 Overall [these 3 folders](media_src/CONVERTABLE_IMAGES) are all the images used for each watchface.
 
 After converting them to a color you like, place them in a folder "images" [for any watchface in here](watchfaces_src)
-and open any of the project file, for example [this one](watchfaces_src/PipGirlProject/PipGirlProject_d.fprj) 
-with MiCreate. It will automatically apply your images (with new color) as they have the same names. 
-Now you can build new watchface using MiCrate.
+(with replacing files) and open any of the project file, for example [this one](watchfaces_src/PipGirlProject/PipGirlProject_d.fprj) 
+with MiCreate.
+
+Note that you should be working in the same folder, so your project file should be in the same place, where you have just
+replaced pictures in 'images' folder.
+
+It will automatically apply your images (with new color) as they have the same names (so when changes colors of images, 
+you should keep the names of each image as is). Now you can build new watchface using MiCrate – there is button 'build'.
+MiCreate will build you file in the folder 'output', this will be .face file ,it will have the same name, as your project
+file. For example if you opened a file 'PipGirlProject_es.fprj' and built it, you will have a file 'PipGirlProject_es.face'
+in output folder.
 
 Note, that you will also need to change Watchface ID under 'File' -> 'Manage project'. Each watchface should have 
-unique ID, or it will replace already installed one with the same ID.
+unique ID, or it will replace already installed one with the same ID on you Mi Band (if there is such saved on Mi Band).
 
 ## FAQ
 
@@ -292,7 +331,7 @@ Here what I currently have:
 - 008 – [Moderate rain]
 - 000 – [Clear]
 
-I was not able to create a button for Oxygen. No idea why and how to do that.
+I was not able to create a button (Tap-Zone) for Oxygen. No idea why and how to do that.
 
 There might be an issue with weather alerts for negative temperatures – did not test yet, waiting for winter)
 
