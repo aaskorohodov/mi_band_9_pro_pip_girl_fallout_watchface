@@ -101,8 +101,8 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 Different colors may have additional unique animations, for example:
 
 <p align="center">
-  <img src="share/V10/animation/blue_ocean_swimsuit.gif" alt="PipGirl_watchface_miband_9_8_animation_v1" style="width:23%; margin:0%">
-  <img src="share/V10/animation/blueberry_yogurt_streaching.gif" alt="PipGirl_watchface_miband_9_8_animation_v2" style="width:23%; margin:0%">
+  <img src="share/V10/animation/blue_ocean_swimsuit.gif" alt="PipGirl_watchface_miband_9_8_animation_v1" style="width:48%; margin:0%">
+  <img src="share/V10/animation/blueberry_yogurt_streaching.gif" alt="PipGirl_watchface_miband_9_8_animation_v2" style="width:48%; margin:0%">
 </p>
 
 ### Static
