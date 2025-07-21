@@ -152,51 +152,57 @@ with watchface settings, and you can install all of them!
 
 ### Cian
 
-[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Cian_VaultGirl_v10_1.face)
+[Static VaultGirl + Animation Decently Dressed](share/V10/watchfaces/Cian_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Cian_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Cian_VaultGirl_v10_2.face)
 
 ### Blue
 
-[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Blue_VaultGirl_v10_1.face)
+[Static VaultGirl + Animation Decently Dressed](share/V10/watchfaces/Blue_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Blue_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Blue_VaultGirl_v10_2.face)
 
 ### Yellow
 
-[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Yellow_VaultGirl_v10_1.face)
+[Static VaultGirl + Animation Decently Dressed](share/V10/watchfaces/Yellow_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Yellow_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Yellow_VaultGirl_v10_2.face)
 
 ### Gray
 
-[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Gray_VaultGirl_v10_1.face)
+[Static VaultGirl + Animation Decently Dressed](share/V10/watchfaces/Gray_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Gray_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Gray_VaultGirl_v10_2.face)
 
 ### Ninja Gray
 
-[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10_1.face)
+[Static VaultGirl (Ninja) + Animation Decently Dressed](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10_2.face)
 
 ### Orange
 
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Orange_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Orange_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Orange_VaultGirl_v10_2.face)
 
 ### Fuchsia
 
 [Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Fuchsia_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Fuchsia_VaultGirl_v10_2.face)
+[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Fuchsia_VaultGirl_v10_2.face)
 
 ### Blueberry Yogurt
 
-[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Blueberry_VaultGirl_v10_1.face)
+[Static VaultGirl (nightie) + Animation Stretching](share/V10/watchfaces/Blueberry_VaultGirl_v10_1.face)
 
-[Animation with a neckline + Animation suspenders](share/V10/watchfaces/Blueberry_VaultGirl_v10_2.face)
+[Animation Nightie + Animation Suspenders](share/V10/watchfaces/Blueberry_VaultGirl_v10_2.face)
+
+### Ocean Blue
+
+[Static VaultGirl (fisher-girl) + Animation decently dressed](share/V10/watchfaces/OceanBlue_VaultGirl_v10_1.face)
+
+[Animation Swimsuit + Animation Suspenders](share/V10/watchfaces/OceanBlue_VaultGirl_v10_2.face)
 
 ## How to Install
 
