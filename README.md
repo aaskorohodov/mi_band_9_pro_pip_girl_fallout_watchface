@@ -69,6 +69,12 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
       <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt" style="width:90%;">
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <div>Ocean Blue</div>
+      <img src="share/V10/colors/ocean_blue.png" alt="Ocean Blue" style="width:90%;">
+    </td>
+  </tr>
 </table>
 
 
@@ -84,12 +90,19 @@ Inspired by [Vault Girl Mod - Neo's FOMOD Version](https://www.nexusmods.com/fal
 
 ### Animated
 
-<h3 style="text-align:center;">3 animations styles!</h3>
+<h3 style="text-align:center;">3 main animations styles!</h3>
 
 <p align="center">
   <img src="share/V10/animation/v2.png" alt="PipGirl_watchface_miband_9_8_animation_v1" style="width:23%; margin:0%">
   <img src="share/V10/animation/v3.png" alt="PipGirl_watchface_miband_9_8_animation_v2" style="width:23%; margin:0%">
   <img src="share/V10/animation/v4.png" alt="PipGirl_watchface_miband_9_8_animation_v3" style="width:23%; margin:0%">
+</p>
+
+Different colors may have additional unique animations, for example:
+
+<p align="center">
+  <img src="share/V10/animation/blue_ocean_swimsuit.gif" alt="PipGirl_watchface_miband_9_8_animation_v1" style="width:23%; margin:0%">
+  <img src="share/V10/animation/blueberry_yogurt_streaching.gif" alt="PipGirl_watchface_miband_9_8_animation_v2" style="width:23%; margin:0%">
 </p>
 
 ### Static
@@ -106,6 +119,10 @@ Different colors may have different static-image (static version of watchface, t
   <img src="share/V10/static_examples/blue_static.png" alt="PipGirl_watchface_miband_9_8_blue_static" style="width:23%; margin:0%">
   <img src="share/V10/static_examples/ninja_gray_static.png" alt="PipGirl_watchface_miband_9_8_ninja_gray_static" style="width:23%; margin:0%">
   <img src="share/V10/static_examples/blueberry_yogurt_static.png" alt="PipGirl_watchface_miband_9_8_blueberry_yogurt_static" style="width:23%; margin:0%">
+</p>
+
+<p align="center">
+  <img src="share/V10/static_examples/ocean_blue_static.png" alt="PipGirl_watchface_miband_9_8_blue_static" style="width:23%; margin:0%">
 </p>
 
 ## Data
