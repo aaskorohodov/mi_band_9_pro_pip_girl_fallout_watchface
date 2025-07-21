@@ -17,6 +17,7 @@
     * [Orange](#orange)
     * [Fuchsia](#fuchsia)
     * [Blueberry Yogurt](#blueberry-yogurt)
+    * [Ocean Blue](#ocean-blue)
   * [How to Install](#how-to-install)
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
