@@ -21,7 +21,7 @@
     * [Meadow Green (NSFW)](#meadow-green-nsfw)
     * [Armor Green (NSFW)](#armor-green-nsfw)
     * [Shameless Red (NSFW)](#shameless-red-nsfw)
-    * [Toxic Green](#toxic-green)
+    * [Toxic Green (NSFW)](#toxic-green-nsfw)
   * [How to Install](#how-to-install)
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
