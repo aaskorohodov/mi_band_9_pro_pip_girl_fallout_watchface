@@ -389,7 +389,10 @@ unique ID, or it will replace already installed one with the same ID on you Mi B
 ## FAQ
 
 > **Does this watchface drains battery any faster?** 
-> > Testing is in progress. It looks like animated versions have some effect. Will update in several weeks
+> > Static version does not. With my settings (all on, set 1 minute screen on) static versions (no animation) drains from 100% to 20 in 10 days.
+> > Animated version goes from 100% to 20% in 7 days, so given 350 mAh battery drained to 20% means 280 mAh used:
+> > >  280 mAh \ 10 days = 28 mAh per day and 280 \ 7 = 40 mAh per day for animated version. Difference is 12 mAh a day,
+> > > which is about ~3.4% a day of battery usage due to animation
 
 > **Why so many colors?**
 > > I have ordered a bunch of different straps for Mi Band, something like 15, and trying to match a color of 
