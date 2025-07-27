@@ -1,6 +1,10 @@
+"""Changes gray color only"""
+
+
 import os
-from PIL import Image
 import colorsys
+
+from PIL import Image
 
 
 def is_grayscale(color: tuple[int, int, int]) -> bool:
@@ -72,12 +76,12 @@ def process_folder(folder_path: str, new_color: tuple[int, int, int]) -> None:
 
 
 if __name__ == "__main__":
-    target_folder = "C:/Users/DY/Pictures/Photoshop/WatchFace/Nixie_Tubes/Convertable"  # change this!
+    target_folder = r"C:\Users\DY\PycharmProjects\mi_band_9_pro_pip_girl_fallout_watchface\media_src\converter_2"  # change this!
     blue   = (8, 141, 230)
     gray   = (255, 255, 255)
     yellow = (255, 237, 0)
     green  = (0, 255, 100)
     cian   = (8, 230, 189)
+    shameless_red = (224, 110, 101)
 
-    new_rgb_color = gray
-    process_folder(target_folder, new_rgb_color)
+    process_folder(target_folder, shameless_red)

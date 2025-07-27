@@ -1,4 +1,5 @@
 import os
+
 from PIL import Image
 
 
@@ -33,6 +34,6 @@ def process_folder(folder_path, new_color=(8, 230, 189)):
 
 
 if __name__ == "__main__":
-    target_folder = "C:/Users/DY/Pictures/Photoshop/WatchFace/converter"
-    new_rgb_color = (8, 230, 189)  # Target color
-    process_folder(target_folder, new_rgb_color)
+    target_folder = r"C:\Users\DY\PycharmProjects\mi_band_9_pro_pip_girl_fallout_watchface\media_src\converter_2"
+    shameless_red    = (224, 110, 101)
+    process_folder(target_folder, shameless_red)

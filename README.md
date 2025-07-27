@@ -18,6 +18,10 @@
     * [Fuchsia](#fuchsia)
     * [Blueberry Yogurt](#blueberry-yogurt)
     * [Ocean Blue](#ocean-blue)
+    * [Meadow Green (NSFW)](#meadow-green-nsfw)
+    * [Armor Green (NSFW)](#armor-green-nsfw)
+    * [Shameless Red (NSFW)](#shameless-red-nsfw)
+    * [Toxic Green](#toxic-green)
   * [How to Install](#how-to-install)
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
@@ -31,49 +35,67 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
 
 ## Colors
 
-<h3 style="text-align:center;">Available in 9 colors!</h3>
+<h3 style="text-align:center;">Available in 13 colors!</h3>
 
 <table align="center">
   <tr>
     <td align="center">
       <div>Blue</div>
-      <img src="share/V10/colors/blue.png" alt="Blue" style="width:90%;">
+      <img src="share/V10/colors/blue.png" alt="Blue MiBand 9 pro watchface example" style="width:90%;">
     </td>
     <td align="center">
       <div>Yellow</div>
-      <img src="share/V10/colors/yellow.png" alt="Yellow" style="width:90%;">
+      <img src="share/V10/colors/yellow.png" alt="Yellow MiBand 9 pro watchface example" style="width:90%;">
     </td>
     <td align="center">
       <div>Gray</div>
-      <img src="share/V10/colors/gray.png" alt="Gray" style="width:90%;">
+      <img src="share/V10/colors/gray.png" alt="Gray MiBand 9 pro watchface example" style="width:90%;">
     </td>
     <td align="center">
       <div>Ninja Gray</div>
-      <img src="share/V10/colors/ninja_gray.png" alt="Ninja Gray" style="width:90%;">
+      <img src="share/V10/colors/ninja_gray.png" alt="Ninja Gray MiBand 9 pro watchface example" style="width:90%;">
     </td>
   </tr>
   <tr>
     <td align="center">
       <div>Orange</div>
-      <img src="share/V10/colors/orange.png" alt="Orange" style="width:90%;">
+      <img src="share/V10/colors/orange.png" alt="Orange MiBand 9 pro watchface example" style="width:90%;">
     </td>
     <td align="center">
       <div>Cyan</div>
-      <img src="share/V10/colors/cian.png" alt="Cyan" style="width:90%;">
+      <img src="share/V10/colors/cian.png" alt="Cyan MiBand 9 pro watchface example" style="width:90%;">
     </td>
     <td align="center">
       <div>Fuchsia</div>
-      <img src="share/V10/colors/fuchsia.png" alt="Fuchsia" style="width:90%;">
+      <img src="share/V10/colors/fuchsia.png" alt="Fuchsia MiBand 9 pro watchface example" style="width:90%;">
     </td>
     <td align="center">
       <div>Blueberry Yogurt</div>
-      <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt" style="width:90%;">
+      <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt MiBand 9 pro watchface example" style="width:90%;">
     </td>
   </tr>
   <tr>
     <td align="center">
       <div>Ocean Blue</div>
-      <img src="share/V10/colors/ocean_blue.png" alt="Ocean Blue" style="width:90%;">
+      <img src="share/V10/colors/ocean_blue.png" alt="Ocean Blue MiBand 9 pro watchface example" style="width:90%;">
+    </td>
+    <td align="center">
+      <div>Meadow Green</div>
+      <img src="share/V10/colors/meadow_green.png" alt="Meadow Green MiBand 9 pro watchface example" style="width:90%;">
+    </td>
+    <td align="center">
+      <div>Armor Green</div>
+      <img src="share/V10/colors/armor_green.png" alt="Armor Green MiBand 9 pro watchface example" style="width:90%;">
+    </td>
+    <td align="center">
+      <div>Shameless Red</div>
+      <img src="share/V10/colors/shameless_red.png" alt="Shameless Red MiBand 9 pro watchface example" style="width:90%;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <div>Toxic Green</div>
+      <img src="share/V10/colors/toxic_green.png" alt="Toxic Green MiBand 9 pro watchface example" style="width:90%;">
     </td>
   </tr>
 </table>
@@ -117,13 +139,20 @@ Different colors may have additional unique animations, for example:
 Different colors may have different static-image (static version of watchface, the one without animation), for example:
 
 <p align="center">
-  <img src="share/V10/static_examples/blue_static.png" alt="PipGirl_watchface_miband_9_8_blue_static" style="width:23%; margin:0%">
-  <img src="share/V10/static_examples/ninja_gray_static.png" alt="PipGirl_watchface_miband_9_8_ninja_gray_static" style="width:23%; margin:0%">
-  <img src="share/V10/static_examples/blueberry_yogurt_static.png" alt="PipGirl_watchface_miband_9_8_blueberry_yogurt_static" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/blue_static.png" alt="PipGirl watchface MiBand 9 and 8 Blue" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/ninja_gray_static.png" alt="PipGirl watchface MiBand 9 and 8 Ninja Gray" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/blueberry_yogurt_static.png" alt="PipGirl watchface MiBand 9 and 8 Blueberry Yogurt" style="width:23%; margin:0%">
 </p>
 
 <p align="center">
-  <img src="share/V10/static_examples/ocean_blue_static.png" alt="PipGirl_watchface_miband_9_8_blue_static" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/ocean_blue_static.png" alt="PipGirl watchface MiBand 9 and 8 Ocean Blue" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/meadow_green.png" alt="PipGirl watchface MiBand 9 and 8 Meadow Green" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/shameless_red.png" alt="PipGirl watchface MiBand 9 and 8 Shameless Red" style="width:23%; margin:0%">
+</p>
+
+<p align="center">
+  <img src="share/V10/static_examples/toxic_green.png" alt="PipGirl watchface MiBand 9 and 8 Toxic Green" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/armor_green.png" alt="PipGirl watchface MiBand 9 and 8 Armor Green" style="width:23%; margin:0%">
 </p>
 
 ## Data
@@ -143,11 +172,19 @@ Different colors may have different static-image (static version of watchface, t
 
 Each color has 2 watchface files:
 
-1. Static VaultGirl + Animation decently dressed
-2. Animation with a neckline + Animation suspenders
+1. Static VaultGirl + Animation V1
+2. Animation V2 + Animation V3
 
-This is due to a heavy files, Mi Band can not handle too many animations. You can select desired animation style 
-with watchface settings, and you can install all of them!
+Static version may be a bit different from color to color.
+With Animation V1 PipGirl is usually dressed in VaultSuit.
+With Animation V2 PipGirl is usually dressed in VaultSuit with neckline (décolleté).
+With Animation V3 PipGirl is usually dressed in VaultSuit with suspenders.
+
+All animated versions may be a bit (sometimes a lot) different, but it always a VaultGirl taking some actions,
+normally simply walking in different clothes (sometimes NSFW clothes).
+
+There is no single file with all animations for a specific color, each color is normally split into 2 watchface-files.
+This is due to a heavy files – Mi Band can not handle too many animations.
 
 *Note: All these clock-faces were tested on Mi Band 9 Pro, but they should work on Mi Band 8 Pro as well.*
 
@@ -195,15 +232,39 @@ with watchface settings, and you can install all of them!
 
 ### Blueberry Yogurt
 
-[Static VaultGirl (nightie) + Animation Stretching](share/V10/watchfaces/Blueberry_VaultGirl_v10_1.face)
+[Static VaultGirl (Nightie) + Animation Stretching](share/V10/watchfaces/Blueberry_VaultGirl_v10_1.face)
 
 [Animation Nightie + Animation Suspenders](share/V10/watchfaces/Blueberry_VaultGirl_v10_2.face)
 
 ### Ocean Blue
 
-[Static VaultGirl (fisher-girl) + Animation decently dressed](share/V10/watchfaces/OceanBlue_VaultGirl_v10_1.face)
+[Static VaultGirl (Fisher-Girl) + Animation decently dressed](share/V10/watchfaces/OceanBlue_VaultGirl_v10_1.face)
 
 [Animation Swimsuit + Animation Suspenders](share/V10/watchfaces/OceanBlue_VaultGirl_v10_2.face)
+
+### Meadow Green (NSFW)
+
+[Static VaultGirl (sunbathing) + Animation yawning (NSFW)](share/V10/watchfaces/Meadow_VaultGirl_v10_1.face)
+
+[Animation Bikini + Animation Suspenders](share/V10/watchfaces/Meadow_VaultGirl_v10_2.face)
+
+### Armor Green (NSFW)
+
+[Static VaultGirl skirt (NSFW) + Animation Jumping in skirt (NSFW)](share/V10/watchfaces/Armor_VaultGirl_v10_1.face)
+
+[Animation Walking In Skirt (NSFW) + Animation Suspenders](share/V10/watchfaces/Armor_VaultGirl_v10_2.face)
+
+### Shameless Red (NSFW)
+
+[Static VaultGirl (Shameless Suspenders) + Animation Tears Suspenders (NSFW)](share/V10/watchfaces/ShamelessRed_VaultGirl_v10_1.face)
+
+[Animation Squeezing Boobs (NSFW) + Animation Walking in Shameless Suspenders (NSFW)](share/V10/watchfaces/ShamelessRed_VaultGirl_v10_2.face)
+
+### Toxic Green
+
+[Static VaultGirl F@@k-Machine (NSFW) + Animation F@@k-Machine (NSFW)](share/V10/watchfaces/ToxicGreen_VaultGirl_v10_1.face)
+
+[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/ToxicGreen_VaultGirl_v10_2.face)
 
 ## How to Install
 
