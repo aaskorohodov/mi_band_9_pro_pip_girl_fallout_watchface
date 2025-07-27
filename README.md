@@ -260,7 +260,7 @@ This is due to a heavy files – Mi Band can not handle too many animations.
 
 [Animation Squeezing Boobs (NSFW) + Animation Walking in Shameless Suspenders (NSFW)](share/V10/watchfaces/ShamelessRed_VaultGirl_v10_2.face)
 
-### Toxic Green
+### Toxic Green (NSFW)
 
 [Static VaultGirl F@@k-Machine (NSFW) + Animation F@@k-Machine (NSFW)](share/V10/watchfaces/ToxicGreen_VaultGirl_v10_1.face)
 
