@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<FaceProject DeviceType="11" Id="161234621">
-	<Screen Title="Fuchsia_VaultGirl_v10_2" Bitmap="example.png">
+<FaceProject DeviceType="11" Id="161234620">
+	<Screen Title="Fuchsia" Bitmap="example.png">
 		<Widget Shape="30" Name="Image" Bitmap="background_v7.png" X="0" Y="0" Width="336" Height="480" Alpha="255" Visible_Src="0"/>
 		<Widget Shape="32" Name="h1" BitmapList="0_100.png|1_100.png|2_100.png|3_100.png|4_100.png|5_100.png|6_100.png|7_100.png|8_100.png|9_100.png" X="47" Y="16" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="1000911" Spacing="0" Blanking="0"/>
 		<Widget Shape="32" Name="h2" BitmapList="0_100.png|1_100.png|2_100.png|3_100.png|4_100.png|5_100.png|6_100.png|7_100.png|8_100.png|9_100.png" X="95" Y="16" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="911" Spacing="0" Blanking="0"/>

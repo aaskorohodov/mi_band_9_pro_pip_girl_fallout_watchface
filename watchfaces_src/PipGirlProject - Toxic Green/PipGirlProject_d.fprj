@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<FaceProject DeviceType="11" Id="161234681">
-	<Screen Title="ToxicGreen_VaultGirl_v10_2" Bitmap="example.png">
+<FaceProject DeviceType="11" Id="161234680">
+	<Screen Title="ToxicGreen" Bitmap="example.png">
 		<Widget Shape="30" Name="Image" Bitmap="background_v7.png" X="0" Y="0" Width="336" Height="480" Alpha="255" Visible_Src="0"/>
 		<Widget Shape="32" Name="h1" BitmapList="0_100.png|1_100.png|2_100.png|3_100.png|4_100.png|5_100.png|6_100.png|7_100.png|8_100.png|9_100.png" X="47" Y="16" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="1000911" Spacing="0" Blanking="0"/>
 		<Widget Shape="32" Name="h2" BitmapList="0_100.png|1_100.png|2_100.png|3_100.png|4_100.png|5_100.png|6_100.png|7_100.png|8_100.png|9_100.png" X="95" Y="16" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="911" Spacing="0" Blanking="0"/>
@@ -41,7 +41,7 @@
 		<Widget Shape="32" Name="wind_numb" BitmapList="0_18.png|1_18.png|2_18.png|3_18.png|4_18.png|5_18.png|6_18.png|7_18.png|8_18.png|9_18.png|minus_18.png" X="257" Y="463" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="0" Value_Src="4831" Spacing="0" Blanking="0"/>
 		<Widget Shape="31" Name="weather_icon" BitmapList="(0):w_clear.png|(1):w_partially.png|(2):w_cloudy.png|(3):w_average_rain.png|(4):w_thunder.png|(5):w_sleet.png|(6):w_sleet.png|(7):w_small_rain.png|(8):w_average_rain.png|(9):w_strong_rain.png|(10):w_strong_rain.png|(13):w_small_snow.png|(14):w_small_snow.png|(15):w_average_snow.png|(16):w_strong_snow.png|(17):w_strong_snow.png|(18):w_fog.png|(20):w_wind.png|(29):w_sleet.png|(30):w_sleet.png|(33):w_small_snow.png|(53):w_fog.png|(99):w_unknown.png|(301):w_small_rain.png" X="235" Y="420" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="1" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0" Index_Src="3031"/>
 		<Widget Shape="31" Name="uv_arrow" BitmapList="(0):uv_0.png|(1):uv_1.png|(2):uv_2.png|(3):uv_3.png|(4):uv_4.png|(5):uv_5.png|(6):uv_6.png|(7):uv_7.png|(8):uv_8.png|(9):uv_9.png|(10):uv_10.png" X="0" Y="355" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0" Index_Src="7831"/>
-		<Widget Shape="31" Name="anim_[0@150]" BitmapList="(0):walking_d_1.png|(1):walking_d_2.png|(2):walking_d_3.png|(3):walking_d_4.png|(4):walking_d_5.png|(5):walking_d_6.png|(6):walking_d_7.png|(7):walking_d_8.png" X="100" Y="135" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0"/>
+		<Widget Shape="31" Name="anim_[0@150]" BitmapList="(0):bondage_1_walking.png|(1):bondage_2_walking.png|(2):bondage_3_walking.png|(3):bondage_4_walking.png|(4):bondage_5_walking.png|(5):bondage_6_walking.png|(6):bondage_7_walking.png|(7):bondage_8_walking.png" X="100" Y="135" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0"/>
 		<Widget Shape="30" Name="darkener" Bitmap="darkener_2.png" X="0" Y="0" Width="336" Height="480" Alpha="255" Visible_Src="0"/>
 		<Widget Shape="30" Name="btn_[timer]" Bitmap="btn_70x60.png" X="265" Y="41" Width="70" Height="60" Alpha="255" Visible_Src="0"/>
 		<Widget Shape="30" Name="btn_[music]" Bitmap="btn_70x60.png" X="132" Y="144" Width="70" Height="60" Alpha="255" Visible_Src="0"/>

@@ -8,7 +8,7 @@
     * [Static](#static)
   * [Data](#data)
   * [Tap-zones](#tap-zones)
-  * [Files](#files)
+  * [Select style](#select-style)
     * [Cian](#cian)
     * [Blue](#blue)
     * [Yellow](#yellow)
@@ -17,11 +17,12 @@
     * [Orange](#orange)
     * [Fuchsia](#fuchsia)
     * [Blueberry Yogurt](#blueberry-yogurt)
-    * [Ocean Blue](#ocean-blue)
+    * [Ocean Blue (NSFW)](#ocean-blue-nsfw)
     * [Meadow Green (NSFW)](#meadow-green-nsfw)
     * [Armor Green (NSFW)](#armor-green-nsfw)
     * [Shameless Red (NSFW)](#shameless-red-nsfw)
     * [Toxic Green (NSFW)](#toxic-green-nsfw)
+    * [Monroe Yellow (NSFW)](#monroe-yellow-nsfw)
   * [How to Install](#how-to-install)
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
@@ -97,6 +98,10 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
       <div>Toxic Green</div>
       <img src="share/V10/colors/toxic_green.png" alt="Toxic Green MiBand 9 pro watchface example" style="width:90%;">
     </td>
+    <td align="center">
+      <div>Monroe Yellow</div>
+      <img src="share/V10/colors/monroe_yellow.png" alt="Monroe Yellow MiBand 9 pro watchface example" style="width:90%;">
+    </td>
   </tr>
 </table>
 
@@ -153,6 +158,7 @@ Different colors may have different static-image (static version of watchface, t
 <p align="center">
   <img src="share/V10/static_examples/toxic_green.png" alt="PipGirl watchface MiBand 9 and 8 Toxic Green" style="width:23%; margin:0%">
   <img src="share/V10/static_examples/armor_green.png" alt="PipGirl watchface MiBand 9 and 8 Armor Green" style="width:23%; margin:0%">
+  <img src="share/V10/static_examples/monroe_yellow.png" alt="PipGirl watchface MiBand 9 and 8 Monroe Yellow" style="width:23%; margin:0%">
 </p>
 
 ## Data
@@ -168,12 +174,12 @@ Different colors may have different static-image (static version of watchface, t
 </p>
 
 
-## Files
+## Select style
 
-Each color has 2 watchface files:
+Each color has 3 to 4 watchface-style for MiBand 8/9, different by VaultGirl:
 
-1. Static VaultGirl + Animation V1
-2. Animation V2 + Animation V3
+- Static VaultGirl (no animation)
+- And animated versions
 
 Static version may be a bit different from color to color.
 With Animation V1 PipGirl is usually dressed in VaultSuit.
@@ -183,88 +189,146 @@ With Animation V3 PipGirl is usually dressed in VaultSuit with suspenders.
 All animated versions may be a bit (sometimes a lot) different, but it always a VaultGirl taking some actions,
 normally simply walking in different clothes (sometimes NSFW clothes).
 
-There is no single file with all animations for a specific color, each color is normally split into 2 watchface-files.
-This is due to a heavy files – Mi Band can not handle too many animations.
+Each color has a single watchface-file. You can select style of animation (or static version) on MiBand itself, by
+configuring watchface with a button "settings" when selecting watchface.
 
 *Note: All these clock-faces were tested on Mi Band 9 Pro, but they should work on Mi Band 8 Pro as well.*
 
 ### Cian
 
-[Static VaultGirl + Animation Decently Dressed](share/V10/watchfaces/Cian_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Cian_VaultGirl_v10.face)
 
-[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Cian_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl
+- Animation Decently Dressed 
+- Animation With A neckline (decollete)
+- Animation Suspenders
 
 ### Blue
 
-[Static VaultGirl + Animation Decently Dressed](share/V10/watchfaces/Blue_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Blue_VaultGirl_v10.face)
 
-[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Blue_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl
+- Animation Decently Dressed 
+- Animation With A neckline (decollete)
+- Animation Suspenders
 
 ### Yellow
 
-[Static VaultGirl + Animation Decently Dressed](share/V10/watchfaces/Yellow_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Yellow_VaultGirl_v10.face)
 
-[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Yellow_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl
+- Animation Decently Dressed 
+- Animation With A neckline (decollete)
+- Animation Suspenders
 
 ### Gray
 
-[Static VaultGirl + Animation Decently Dressed](share/V10/watchfaces/Gray_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Gray_VaultGirl_v10.face)
 
-[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Gray_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl
+- Animation Decently Dressed 
+- Animation With A neckline (decollete)
+- Animation Suspenders
 
 ### Ninja Gray
 
-[Static VaultGirl (Ninja) + Animation Decently Dressed](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10.face)
 
-[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl (Ninja-style)
+- Animation Decently Dressed 
+- Animation With A neckline (decollete)
+- Animation Suspenders
 
 ### Orange
 
-[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Orange_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Orange_VaultGirl_v10.face)
 
-[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Orange_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl
+- Animation Decently Dressed 
+- Animation With A neckline (decollete)
+- Animation Suspenders
 
 ### Fuchsia
 
-[Static VaultGirl + Animation decently dressed](share/V10/watchfaces/Fuchsia_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Fuchsia_VaultGirl_v10.face)
 
-[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/Fuchsia_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl
+- Animation Decently Dressed 
+- Animation With A Neckline (decollete)
+- Animation Suspenders
 
 ### Blueberry Yogurt
 
-[Static VaultGirl (Nightie) + Animation Stretching](share/V10/watchfaces/Blueberry_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Blueberry_VaultGirl_v10.face)
 
-[Animation Nightie + Animation Suspenders](share/V10/watchfaces/Blueberry_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl (Nightie)
+- Animation Stretching 
+- Animation Walking In Nightie
+- Animation Suspenders
 
-### Ocean Blue
+### Ocean Blue (NSFW)
 
-[Static VaultGirl (Fisher-Girl) + Animation decently dressed](share/V10/watchfaces/OceanBlue_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/OceanBlue_VaultGirl_v10.face)
 
-[Animation Swimsuit + Animation Suspenders](share/V10/watchfaces/OceanBlue_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl (Fisher-Girl)
+- Animation Walking In Swimsuit
+- Animation Lustful Octopus (NSFW)
 
 ### Meadow Green (NSFW)
 
-[Static VaultGirl (sunbathing) + Animation yawning (NSFW)](share/V10/watchfaces/Meadow_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Meadow_VaultGirl_v10.face)
 
-[Animation Bikini + Animation Suspenders](share/V10/watchfaces/Meadow_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl (Sunbathing)
+- Animation Yawning (NSFW)
+- Animation Walking in Bikini
 
 ### Armor Green (NSFW)
 
-[Static VaultGirl skirt (NSFW) + Animation Jumping in skirt (NSFW)](share/V10/watchfaces/Armor_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/Armor_VaultGirl_v10.face)
 
-[Animation Walking In Skirt (NSFW) + Animation Suspenders](share/V10/watchfaces/Armor_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl in Skirt (NSFW)
+- Animation Jumping in Skirt (NSFW)
+- Animation Walking in Skirt (NSFW)
 
 ### Shameless Red (NSFW)
 
-[Static VaultGirl (Shameless Suspenders) + Animation Tears Suspenders (NSFW)](share/V10/watchfaces/ShamelessRed_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/ShamelessRed_VaultGirl_v10.face)
 
-[Animation Squeezing Boobs (NSFW) + Animation Walking in Shameless Suspenders (NSFW)](share/V10/watchfaces/ShamelessRed_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl (Shameless Suspenders)
+- Animation Tears Suspenders (NSFW)
+- Animation Squeezing Boobs (NSFW)
+- Animation Walking In Shameless Suspenders (NSFW)
 
 ### Toxic Green (NSFW)
 
-[Static VaultGirl F@@k-Machine (NSFW) + Animation F@@k-Machine (NSFW)](share/V10/watchfaces/ToxicGreen_VaultGirl_v10_1.face)
+[Watchface file is here](share/V10/watchfaces/ToxicGreen_VaultGirl_v10.face)
 
-[Animation with a neckline + Animation Suspenders](share/V10/watchfaces/ToxicGreen_VaultGirl_v10_2.face)
+Includes:
+- Static VaultGirl F@@k-Machine (NSFW)
+- Animation F@@k-Machine (NSFW)
+- Animation Walking In Bondage (NSFW)
+
+### Monroe Yellow (NSFW)
+
+[Watchface file is here](share/V10/watchfaces/Monroe_VaultGirl_v10.face)
+
+Includes:
+- Static VaultGirl Monroe On A Vent (NSFW)
+- Animation Monroe On A Vent (NSFW)
+- Animation Monroe Walking
+- Animation Monroe Walking (NSFW)
 
 ## How to Install
 
@@ -307,7 +371,7 @@ https://4pda.to/forum/index.php?showtopic=1076706&st=740#entry135696472
 
 [Same file in this repo](MiCreate.exe)
 
-It needs to be installed. I was not able to open watchface-project files with 
+It needs to be installed. I was NOT able to open watchface-project files with 
 [EasyFace](https://github.com/m0tral/EasyFace), seems like these 2 apps does not support each other's files.
 
 You can find source files for each watchface in this repo, including images:
@@ -318,36 +382,30 @@ You can find source files for each watchface in this repo, including images:
 
 For each color you can find a file of a watchface in 'output' folder, it has .face extension, for example:
 
-[in this folder](watchfaces_src/PipGirlProject%20-%20Blueberry%20Yogurt/output)
-[this file](watchfaces_src/PipGirlProject%20-%20Blueberry%20Yogurt/output/Blueberry_VaultGirl_v10_2.face)
+[in this folder](watchfaces_src/PipGirlProject%20-%20Shameless%20Red/output)
+[this file](watchfaces_src/PipGirlProject%20-%20Shameless%20Red/output/ShamelessRed_VaultGirl_v10.face)
 
-This file has 2 watchfaces, both with animated versions of PipGirl.
 
-There is also a folder 'extra' which has the same structure and in 'output' folder there you can find another file:
+Project-files for MiCreate have 4 versions:
 
-[this one](watchfaces_src/PipGirlProject%20-%20Blueberry%20Yogurt/Extra/output/Blueberry_VaultGirl_v10_1.face)
-
-This file has also 2 watchfaces, one with static PipGirl, and with animated version.
-
-So overall these 2 .face files have 4 versions:
-
-- Statis (...v10_1.face)  <- 1
-- Animated decently dressed (...v10_1.face)  <- 1
-- Animated with neckline (...v10_2.face)  <- 2
-- Animated with suspenders (...v10_2.face)  <- 2
+- ...static.fprj – Static version (no animation)
+- ...standard.fprj – first animation style
+- - ..._d.fprj – second animation style
+- - ..._es.fprj – third animation style
 
 **IMPORTANT** This exact version of MiCreate can only build for MiBand 8 pro for some reason. But, it works just fine
-with pro 9, so build for Pro 8. Or use any other software
+with pro 9, so build for Pro 8. Or use any other software.
+
+**IMPORTANT** This exe-file of MiCreate is outdated. After installation, it will ask for update – do it! Newer version
+(v1.1) has fever bugs and is able to build >2 watchfaces into a single .face file
 
 ### Recommendations
 
 - Use this wiki as an instruction for MiCreate: https://github.com/m0tral/EasyFace/wiki/HomeEN (same for MiCreate and EasyFace)
-- I was only able to build 2 color into a single .face file
-- With more than 2 WatchFace Mi Band can NOT install a file (probably due file size)
-- To pack several watchfaces into a single file, create 2 project files (.fprj) in the same folder and build from MiCreate using any of them
+- To pack several watchfaces into a single file, create several project files (.fprj) in the same folder and build from MiCreate using any of them
 - You need to have a folder 'images' with all media, used for a watchface, right next to project file (.fprj)
 - You must have a file example.png in images folder, it should be 336x480 to build a watchface
-- MiCreate is full of bugs
+- MiCreate is full of bugs (fever bugs in v1.1)
 - Save all your data by literally copying project file to another folder from time to time
 - In case of any error message, there is 50/50 chance that your current project-file is corrupted, no matter what you do next
 - No, saving project with "save" button will not help – save project file to another place, when you sure it's buildable

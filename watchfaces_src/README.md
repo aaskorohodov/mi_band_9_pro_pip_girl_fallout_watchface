@@ -1,8 +1,6 @@
-Original Watchface SRC – Is some other watchface, that I was using as a reference
+Original Watchface SRC – Is some other watchface, that I was using it as a reference
 
 PipGirlProject – is a Cian (greenish) version
-
-Each folder has a nested 'Extra' folder. It contains static + decently dressed animation.
 
 Abbreviations and explanations:
 
