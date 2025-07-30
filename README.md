@@ -8,7 +8,7 @@
     * [Static](#static)
   * [Data](#data)
   * [Tap-zones](#tap-zones)
-  * [Select style](#select-style)
+  * [Download](#download)
     * [Cian](#cian)
     * [Blue](#blue)
     * [Yellow](#yellow)
@@ -23,6 +23,7 @@
     * [Shameless Red (NSFW)](#shameless-red-nsfw)
     * [Toxic Green (NSFW)](#toxic-green-nsfw)
     * [Monroe Yellow (NSFW)](#monroe-yellow-nsfw)
+    * [Velma Orange (NSFW)](#velma-orange-nsfw)
   * [How to Install](#how-to-install)
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
@@ -36,7 +37,7 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
 
 ## Colors
 
-<h3 style="text-align:center;">Available in 13 colors!</h3>
+<h3 style="text-align:center;">Available in 15 colors!</h3>
 
 <table align="center">
   <tr>
@@ -102,6 +103,10 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
       <div>Monroe Yellow</div>
       <img src="share/V10/colors/monroe_yellow.png" alt="Monroe Yellow MiBand 9 pro watchface example" style="width:90%;">
     </td>
+    <td align="center">
+      <div>Velma Orange</div>
+      <img src="share/V10/colors/velma_orange.png" alt="Velma Orange MiBand 9 pro watchface example" style="width:90%;">
+    </td>
   </tr>
 </table>
 
@@ -161,6 +166,10 @@ Different colors may have different static-image (static version of watchface, t
   <img src="share/V10/static_examples/monroe_yellow.png" alt="PipGirl watchface MiBand 9 and 8 Monroe Yellow" style="width:23%; margin:0%">
 </p>
 
+<p align="center">
+  <img src="share/V10/static_examples/velma_orange.png" alt="PipGirl watchface MiBand 9 and 8 Velma Orange" style="width:23%; margin:0%">
+</p>
+
 ## Data
 
 <p align="center">
@@ -174,7 +183,7 @@ Different colors may have different static-image (static version of watchface, t
 </p>
 
 
-## Select style
+## Download
 
 Each color has 3 to 4 watchface-style for MiBand 8/9, different by VaultGirl:
 
@@ -196,7 +205,7 @@ configuring watchface with a button "settings" when selecting watchface.
 
 ### Cian
 
-[Watchface file is here](share/V10/watchfaces/Cian_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Cian_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl
@@ -206,7 +215,7 @@ Includes:
 
 ### Blue
 
-[Watchface file is here](share/V10/watchfaces/Blue_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Blue_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl
@@ -216,7 +225,7 @@ Includes:
 
 ### Yellow
 
-[Watchface file is here](share/V10/watchfaces/Yellow_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Yellow_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl
@@ -226,7 +235,7 @@ Includes:
 
 ### Gray
 
-[Watchface file is here](share/V10/watchfaces/Gray_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Gray_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl
@@ -236,7 +245,7 @@ Includes:
 
 ### Ninja Gray
 
-[Watchface file is here](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl (Ninja-style)
@@ -246,7 +255,7 @@ Includes:
 
 ### Orange
 
-[Watchface file is here](share/V10/watchfaces/Orange_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Orange_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl
@@ -256,7 +265,7 @@ Includes:
 
 ### Fuchsia
 
-[Watchface file is here](share/V10/watchfaces/Fuchsia_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Fuchsia_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl
@@ -266,7 +275,7 @@ Includes:
 
 ### Blueberry Yogurt
 
-[Watchface file is here](share/V10/watchfaces/Blueberry_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Blueberry_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl (Nightie)
@@ -276,7 +285,7 @@ Includes:
 
 ### Ocean Blue (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/OceanBlue_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/OceanBlue_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl (Fisher-Girl)
@@ -285,7 +294,7 @@ Includes:
 
 ### Meadow Green (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Meadow_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Meadow_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl (Sunbathing)
@@ -294,7 +303,7 @@ Includes:
 
 ### Armor Green (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Armor_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Armor_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl in Skirt (NSFW)
@@ -303,7 +312,7 @@ Includes:
 
 ### Shameless Red (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/ShamelessRed_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/ShamelessRed_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl (Shameless Suspenders)
@@ -313,7 +322,7 @@ Includes:
 
 ### Toxic Green (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/ToxicGreen_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/ToxicGreen_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl F@@k-Machine (NSFW)
@@ -322,13 +331,22 @@ Includes:
 
 ### Monroe Yellow (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Monroe_VaultGirl_v10.face)
+[Watchface file is here](share/V10/watchfaces/Monroe_VaultGirl_v10.face) <- Download
 
 Includes:
 - Static VaultGirl Monroe On A Vent (NSFW)
 - Animation Monroe On A Vent (NSFW)
 - Animation Monroe Walking
 - Animation Monroe Walking (NSFW)
+
+### Velma Orange (NSFW)
+
+[Watchface file is here](share/V10/watchfaces/Velma_VaultGirl_v10.face) <- Download
+
+Includes:
+- Static VaultGirl Velma Style
+- Animation Velma Using Device (NSFW)
+- Animation Velma Using Vibrator (NSFW)
 
 ## How to Install
 
@@ -471,7 +489,7 @@ Weather icons are not completely tested. Icons are set after 'weather index', an
 able to find any complete description, so took some other watchface and copied its indices. There might be an issue
 with weather icon, when it would display NOT the actual weather. I am currently collecting indices with their 
 descriptions to see, if any are wrong. In static of Cian watchface 
-[in here](watchfaces_src/PipGirlProject/Extra/output/Cian_VaultGirl_v10_1.face) watchface displays actual index it reads
+[in here](watchfaces_src/PipGirlProject/output/Cian_VaultGirl_v10.face) watchface displays actual index it reads
 from weather provider. This is how I keep track and compare indices. Collection them all might take a while) 
 Here what I currently have:
 

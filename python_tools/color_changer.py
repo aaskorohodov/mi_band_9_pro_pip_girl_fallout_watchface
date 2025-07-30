@@ -59,4 +59,6 @@ if __name__ == "__main__":
     shameless_red    = (224, 110, 101)
     toxic_green      = (151, 225, 61)
     monroe_yellow    = (248, 188, 90)
-    process_folder(target_folder, monroe_yellow)
+    velma_orange     = (252, 140, 81)
+
+    process_folder(target_folder, velma_orange)
