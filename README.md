@@ -250,7 +250,7 @@ Includes:
 
 ### Ninja Gray
 
-[Watchface file is here](share/V10/watchfaces/Ninja_Gray_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Ninja) <- Download
 
 Includes:
 - Static VaultGirl (Ninja-style)
@@ -260,7 +260,7 @@ Includes:
 
 ### Orange
 
-[Watchface file is here](share/V10/watchfaces/Orange_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Orange) <- Download
 
 Includes:
 - Static VaultGirl
@@ -290,7 +290,7 @@ Includes:
 
 ### Ocean Blue (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/OceanBlue_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Ocean) <- Download
 
 Includes:
 - Static VaultGirl (Fisher-Girl)
@@ -317,7 +317,7 @@ Includes:
 
 ### Shameless Red (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/ShamelessRed_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/ShamelessRed) <- Download
 
 Includes:
 - Static VaultGirl (Shameless Suspenders)
@@ -327,7 +327,7 @@ Includes:
 
 ### Toxic Green (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/ToxicGreen_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/ToxicGreen) <- Download
 
 Includes:
 - Static VaultGirl F@@k-Machine (NSFW)
@@ -336,7 +336,7 @@ Includes:
 
 ### Monroe Yellow (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Monroe_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Monroe) <- Download
 
 Includes:
 - Static VaultGirl Monroe On A Vent (NSFW)
