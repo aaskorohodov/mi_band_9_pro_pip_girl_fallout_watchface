@@ -1,5 +1,5 @@
 
-[Watchface file](Armor_VaultGirl_v10.face) <- Download Watchface
+[Watchface file](Armor_VaultGirl_v10.face) <- Download Watchface (press "View Raw")
 
 
 <table align="center">
