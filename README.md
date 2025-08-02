@@ -280,7 +280,7 @@ Includes:
 
 ### Blueberry Yogurt
 
-[Watchface file is here](share/V10/watchfaces/Blueberry_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/BlueberryYogurt) <- Download
 
 Includes:
 - Static VaultGirl (Nightie)
