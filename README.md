@@ -24,6 +24,7 @@
     * [Toxic Green (NSFW)](#toxic-green-nsfw)
     * [Monroe Yellow (NSFW)](#monroe-yellow-nsfw)
     * [Velma Orange (NSFW)](#velma-orange-nsfw)
+    * [Fionna Blue (NSFW)](#fionna-blue-nsfw)
   * [How to Install](#how-to-install)
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
@@ -106,6 +107,10 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
     <td align="center">
       <div>Velma Orange</div>
       <img src="share/V10/colors/velma_orange.png" alt="Velma Orange MiBand 9 pro watchface example" style="width:90%;">
+    </td>
+    <td align="center">
+      <div>Fionna Blue</div>
+      <img src="share/V10/colors/fionna_blue.png" alt="Fionna Blue MiBand 9 pro watchface example" style="width:90%;">
     </td>
   </tr>
 </table>
@@ -347,6 +352,14 @@ Includes:
 - Static VaultGirl Velma Style
 - Animation Velma Using Device (NSFW)
 - Animation Velma Using Vibrator (NSFW)
+
+### Fionna Blue (NSFW)
+
+[Watchface file is here](share/V10/watchfaces/Fionna_VaultGirl_v10.face) <- Download
+
+Includes:
+- Static VaultGirl Fionna Style (Adventure Time)
+- Static VaultGirl Fionna Style (NSFW)
 
 ## How to Install
 
