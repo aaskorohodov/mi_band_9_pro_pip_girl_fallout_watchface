@@ -1,6 +1,6 @@
-<div align="center">
-    [Watchface file](Armor_VaultGirl_v10.face) <- Download Watchface
-</div>
+
+[Watchface file](Armor_VaultGirl_v10.face) <- Download Watchface
+
 
 <table align="center">
   <tr>
