@@ -210,7 +210,7 @@ configuring watchface with a button "settings" when selecting watchface.
 
 ### Cian
 
-[Watchface file is here](share/V10/watchfaces/Cian_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Cian) <- Download
 
 Includes:
 - Static VaultGirl
@@ -240,7 +240,7 @@ Includes:
 
 ### Gray
 
-[Watchface file is here](share/V10/watchfaces/Gray_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Gray) <- Download
 
 Includes:
 - Static VaultGirl
@@ -270,7 +270,7 @@ Includes:
 
 ### Fuchsia
 
-[Watchface file is here](share/V10/watchfaces/Fuchsia_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Fuchsia) <- Download
 
 Includes:
 - Static VaultGirl
@@ -299,7 +299,7 @@ Includes:
 
 ### Meadow Green (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Meadow_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Meadow) <- Download
 
 Includes:
 - Static VaultGirl (Sunbathing)
