@@ -220,7 +220,7 @@ Includes:
 
 ### Blue
 
-[Watchface file is here](share/V10/watchfaces/Blue_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Blue) <- Download
 
 Includes:
 - Static VaultGirl
@@ -308,7 +308,7 @@ Includes:
 
 ### Armor Green (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Armor_VaultGirl_v10) <- Download
+[Watchface file is here](share/V10/watchfaces/ArmorGreen) <- Download
 
 Includes:
 - Static VaultGirl in Skirt (NSFW)
@@ -355,7 +355,7 @@ Includes:
 
 ### Fionna Blue (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Fionna_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/AdventureBlue) <- Download
 
 Includes:
 - Static VaultGirl Fionna Style (Adventure Time)
