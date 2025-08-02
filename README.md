@@ -308,7 +308,7 @@ Includes:
 
 ### Armor Green (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Armor_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Armor_VaultGirl_v10) <- Download
 
 Includes:
 - Static VaultGirl in Skirt (NSFW)
