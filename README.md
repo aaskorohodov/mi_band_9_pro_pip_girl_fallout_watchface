@@ -230,7 +230,7 @@ Includes:
 
 ### Yellow
 
-[Watchface file is here](share/V10/watchfaces/Yellow_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Yellow) <- Download
 
 Includes:
 - Static VaultGirl
@@ -346,7 +346,7 @@ Includes:
 
 ### Velma Orange (NSFW)
 
-[Watchface file is here](share/V10/watchfaces/Velma_VaultGirl_v10.face) <- Download
+[Watchface file is here](share/V10/watchfaces/Velma) <- Download
 
 Includes:
 - Static VaultGirl Velma Style
