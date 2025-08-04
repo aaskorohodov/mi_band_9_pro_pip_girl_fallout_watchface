@@ -39,7 +39,7 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
 
 ## Colors
 
-<h3 style="text-align:center;">Available in 16 colors!</h3>
+<h3 style="text-align:center;">Available in 17 colors!</h3>
 
 <table align="center">
   <tr>
