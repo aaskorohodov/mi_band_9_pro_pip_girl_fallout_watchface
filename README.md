@@ -25,6 +25,7 @@
     * [Monroe Yellow (NSFW)](#monroe-yellow-nsfw)
     * [Velma Orange (NSFW)](#velma-orange-nsfw)
     * [Fionna Blue (NSFW)](#fionna-blue-nsfw)
+    * [Tatsumaki Green (NSFW)](#tatsumaki-green-nsfw)
   * [How to Install](#how-to-install)
   * [How to modify these watchface?](#how-to-modify-these-watchface)
     * [Recommendations](#recommendations)
@@ -111,6 +112,12 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
     <td align="center">
       <div>Fionna Blue</div>
       <img src="share/V10/colors/fionna_blue.png" alt="Fionna Blue MiBand 9 pro watchface example" style="width:90%;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <div>Tatsumaki Green</div>
+      <img src="share/V10/colors/tatsumaki_green.png" alt="Tatsumaki Green MiBand 9 pro watchface example" style="width:90%;">
     </td>
   </tr>
 </table>
@@ -359,7 +366,15 @@ Includes:
 
 Includes:
 - Static VaultGirl Fionna Style (Adventure Time)
-- Static VaultGirl Fionna Style (NSFW)
+- Animated VaultGirl Fionna Style (NSFW)
+
+### Tatsumaki Green (NSFW)
+
+[Watchface file is here](share/V10/watchfaces/TatsumakiGreen) <- Download
+
+Includes:
+- Static VaultGirl Tatsumaki Style (Adventure Time)
+- Animated VaultGirl Tatsumaki Style (NSFW)
 
 ## How to Install
 

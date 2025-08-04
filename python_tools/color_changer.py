@@ -61,5 +61,6 @@ if __name__ == "__main__":
     monroe_yellow    = (248, 188, 90)
     velma_orange     = (252, 140, 81)
     adventure_blue   = (128, 217, 228)
+    tatsumaki_green  = (107, 235, 171)
 
-    process_folder(target_folder, adventure_blue)
+    process_folder(target_folder, tatsumaki_green)
