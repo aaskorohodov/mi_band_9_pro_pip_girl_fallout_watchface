@@ -90,7 +90,7 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
     <td align="center">
       <div>Blueberry Yogurt</div>
       <a href="share/V10/watchfaces/BlueberryYogurt">
-        <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt MiBand 9 pro watchface example" style="width:90%;">
+        <img src="share/V10/colors/blueberry_yogurt_1.png" alt="Blueberry Yogurt MiBand 9 pro watchface example" style="width:90%;">
       </a>
     </td>
   </tr>
