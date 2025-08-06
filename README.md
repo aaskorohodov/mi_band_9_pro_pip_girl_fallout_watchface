@@ -45,7 +45,7 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
   <tr>
     <td align="center">
       <div>Blue</div>
-      <a href="share/V10/watchfaces/Blue" target="_blank">
+      <a href="share/V10/watchfaces/Blue">
         <img src="share/V10/colors/blue.png" alt="Blue MiBand 9 pro watchface example" style="width:90%;">
       </a>
     </td>
