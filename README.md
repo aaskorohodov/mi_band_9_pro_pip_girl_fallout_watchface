@@ -51,75 +51,107 @@ Fallout inspired, PipBoy style watchface for MiBand 9 pro! Compatible with Mi Ba
     </td>
     <td align="center">
       <div>Yellow</div>
-      <img src="share/V10/colors/yellow.png" alt="Yellow MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Yellow">
+        <img src="share/V10/colors/yellow.png" alt="Yellow MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Gray</div>
-      <img src="share/V10/colors/gray.png" alt="Gray MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Gray">
+        <img src="share/V10/colors/gray.png" alt="Gray MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Ninja Gray</div>
-      <img src="share/V10/colors/ninja_gray.png" alt="Ninja Gray MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Ninja">
+        <img src="share/V10/colors/ninja_gray.png" alt="Ninja Gray MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <div>Orange</div>
-      <img src="share/V10/colors/orange.png" alt="Orange MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Orange">
+        <img src="share/V10/colors/orange.png" alt="Orange MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Cyan</div>
-      <img src="share/V10/colors/cian.png" alt="Cyan MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Cian">
+        <img src="share/V10/colors/cian.png" alt="Cyan MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Fuchsia</div>
-      <img src="share/V10/colors/fuchsia.png" alt="Fuchsia MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Fuchsia">
+        <img src="share/V10/colors/fuchsia.png" alt="Fuchsia MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Blueberry Yogurt</div>
-      <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/BlueberryYogurt">
+        <img src="share/V10/colors/blueberry_yogurt.png" alt="Blueberry Yogurt MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <div>Ocean Blue</div>
-      <img src="share/V10/colors/ocean_blue.png" alt="Ocean Blue MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Ocean">
+        <img src="share/V10/colors/ocean_blue.png" alt="Ocean Blue MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Meadow Green</div>
-      <img src="share/V10/colors/meadow_green.png" alt="Meadow Green MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Meadow">
+        <img src="share/V10/colors/meadow_green.png" alt="Meadow Green MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Armor Green</div>
-      <img src="share/V10/colors/armor_green.png" alt="Armor Green MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/ArmorGreen">
+        <img src="share/V10/colors/armor_green.png" alt="Armor Green MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Shameless Red</div>
-      <img src="share/V10/colors/shameless_red.png" alt="Shameless Red MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/ShamelessRed">
+        <img src="share/V10/colors/shameless_red.png" alt="Shameless Red MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <div>Toxic Green</div>
-      <img src="share/V10/colors/toxic_green.png" alt="Toxic Green MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/ToxicGreen">
+        <img src="share/V10/colors/toxic_green.png" alt="Toxic Green MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Monroe Yellow</div>
-      <img src="share/V10/colors/monroe_yellow.png" alt="Monroe Yellow MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Monroe">
+        <img src="share/V10/colors/monroe_yellow.png" alt="Monroe Yellow MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Velma Orange</div>
-      <img src="share/V10/colors/velma_orange.png" alt="Velma Orange MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/Velma">
+        <img src="share/V10/colors/velma_orange.png" alt="Velma Orange MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
     <td align="center">
       <div>Fionna Blue</div>
-      <img src="share/V10/colors/fionna_blue.png" alt="Fionna Blue MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/AdventureBlue">
+        <img src="share/V10/colors/fionna_blue.png" alt="Fionna Blue MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <div>Tatsumaki Green</div>
-      <img src="share/V10/colors/tatsumaki_green.png" alt="Tatsumaki Green MiBand 9 pro watchface example" style="width:90%;">
+      <a href="share/V10/watchfaces/TatsumakiGreen">
+        <img src="share/V10/colors/tatsumaki_green.png" alt="Tatsumaki Green MiBand 9 pro watchface example" style="width:90%;">
+      </a>
     </td>
   </tr>
 </table>
