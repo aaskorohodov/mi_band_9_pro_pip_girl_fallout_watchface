@@ -1,3 +1,9 @@
+"""Calculates percentage for progress-bars, according to BPM
+
+Answers the question:
+- Which percentage should bar be, if it represents something like BPM, so rage of values is NOT 0 to 100"""
+
+
 min_bpm = 50
 max_bpm = 200
 steps = 21
