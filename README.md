@@ -231,20 +231,17 @@ Different colors may have different static-image (static version of watchface, t
 
 ## Download
 
-Each color has 3 to 4 watchface-style for MiBand 8/9, different by VaultGirl:
+Each color has 2 to 4 watchfaces for MiBand 8/9, different by VaultGirl:
 
 - Static VaultGirl (no animation)
 - And animated versions
 
 Static version may be a bit different from color to color.
-With Animation V1 PipGirl is usually dressed in VaultSuit.
-With Animation V2 PipGirl is usually dressed in VaultSuit with neckline (décolleté).
-With Animation V3 PipGirl is usually dressed in VaultSuit with suspenders.
 
 All animated versions may be a bit (sometimes a lot) different, but it always a VaultGirl taking some actions,
 normally simply walking in different clothes (sometimes NSFW clothes).
 
-Each color has a single watchface-file. You can select style of animation (or static version) on MiBand itself, by
+Each color has a single watchface-file. You can select style of animation (or static version) on MiBand itself by
 configuring watchface with a button "settings" when selecting watchface.
 
 *Note: All these clock-faces were tested on Mi Band 9 Pro, but they should work on Mi Band 8 Pro as well.*
