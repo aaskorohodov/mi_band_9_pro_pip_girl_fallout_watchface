@@ -563,3 +563,11 @@ There might be an issue with weather alerts for negative temperatures – did no
 
 No idea what would happen in case IV-index goes above 10. MiCreate crashes if trying to set a value for UV=11 or 
 higher. Probably the bar will just stick to its upper limit, so should be ok.
+
+-------------------------------------------
+
+<img src="share/V10/watchfaces/share.png" alt="PipGirl_watchface" style="width:50%; height:auto;" />
+
+Share this link!
+
+-> https://github.com/aaskorohodov/mi_band_9_pro_pip_girl_fallout_watchface <-
