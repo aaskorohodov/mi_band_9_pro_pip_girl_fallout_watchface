@@ -122,8 +122,8 @@ class OtherColorsProjectsUpdater:
 
 if __name__ == '__main__':
     updated_from_path = \
-        ('C:/Users/DY/PycharmProjects/mi_band_9_pro_pip_girl_fallout_watchface/watchfaces_src/PipGirlProject/Extra/'
-         'PipGirlProject_standard.fprj')
+        ('C:/Users/DY/PycharmProjects/mi_band_9_pro_pip_girl_fallout_watchface/watchfaces_src/'
+         'PipGirlProject - Ocean Blue/PipGirlProject_standard.fprj')
     folder_to_find_files_in_path = 'C:/Users/DY/PycharmProjects/mi_band_9_pro_pip_girl_fallout_watchface/watchfaces_src'
 
     if not updated_from_path or not folder_to_find_files_in_path:
