@@ -92,4 +92,4 @@ if __name__ == "__main__":
     velma_orange     = (252, 140, 81)
     adventure_blue   = (128, 217, 228)
 
-    process_folder(target_folder, adventure_blue)
+    process_folder(target_folder, ocean_blue)
