@@ -557,9 +557,9 @@ Here what I currently have:
 - 008 – [Moderate rain]
 - 000 – [Clear]
 
-I was not able to create a button (Tap-Zone) for Oxygen. No idea why and how to do that.
+~~I was not able to create a button (Tap-Zone) for Oxygen. No idea why and how to do that.~~ (solved)
 
-There might be an issue with weather alerts for negative temperatures – did not test yet, waiting for winter)
+~~There might be an issue with weather alerts for negative temperatures – did not test yet, waiting for winter)~~ (solved)
 
 No idea what would happen in case IV-index goes above 10. MiCreate crashes if trying to set a value for UV=11 or 
 higher. Probably the bar will just stick to its upper limit, so should be ok.
