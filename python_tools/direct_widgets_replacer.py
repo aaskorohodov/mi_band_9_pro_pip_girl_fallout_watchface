@@ -39,7 +39,7 @@ class WidgetSpecificUpdater:
                 new_lines.append(line)
 
         if changed:
-            self.back_up_file(target_path)
+            # self.back_up_file(target_path)
             with open(target_path, 'w', encoding='utf-8') as f:
                 f.writelines(new_lines)
             print(f"Successfully updated: {target_path}")
@@ -63,14 +63,8 @@ if __name__ == '__main__':
     # Define your mapping here
     # TIP: Copy the EXACT line from the .fprj file (the one you want to replace)
     MAPPING = {
-        '<Widget Shape="31" Name="warn_weather" BitmapList="(-30):warn_cold_3.png|(-25):warn_cold_2.png|(-15):warn_cold_1.png|(-14):warn_weather_empty.png|(-4):warn_weather_empty.png|(-3):warn_cold_2.png|(2):warn_cold_2.png|(3):warn_weather_empty.png|(24):warn_weather_empty.png|(25):warn_hot_1.png|(28):warn_hot_2.png|(32):warn_hot_3.png" X="261" Y="368" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0" Index_Src="2031"/>':
-        '<Widget Shape="31" Name="warn_weather" BitmapList="(-30):warn_cold_3.png|(-25):warn_cold_2.png|(-15):warn_cold_1.png|(-14):warn_weather_empty.png|(-4):warn_weather_empty.png|(-3):warn_cold_2.png|(2):warn_cold_2.png|(3):warn_weather_empty.png|(24):warn_weather_empty.png|(25):warn_hot_1.png|(28):warn_hot_2.png|(32):warn_hot_3.png" X="250" Y="368" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0" Index_Src="2031"/>',
-
-        '<Widget Shape="32" Name="weather_temp_max" BitmapList="0_18.png|1_18.png|2_18.png|3_18.png|4_18.png|5_18.png|6_18.png|7_18.png|8_18.png|9_18.png|minus_18.png" X="306" Y="359" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="2" Value_Src="1832" Spacing="0" Blanking="1"/>':
-        '<Widget Shape="32" Name="weather_temp_max" BitmapList="0_18.png|1_18.png|2_18.png|3_18.png|4_18.png|5_18.png|6_18.png|7_18.png|8_18.png|9_18.png|minus_18.png" X="294" Y="359" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="3" Alignment="2" Value_Src="1832" Spacing="0" Blanking="1"/>',
-
-        '<Widget Shape="32" Name="weather_temp_min" BitmapList="0_18.png|1_18.png|2_18.png|3_18.png|4_18.png|5_18.png|6_18.png|7_18.png|8_18.png|9_18.png|minus_18.png" X="305" Y="398" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="2" Value_Src="2032" Spacing="0" Blanking="1"/>':
-        '<Widget Shape="32" Name="weather_temp_min" BitmapList="0_18.png|1_18.png|2_18.png|3_18.png|4_18.png|5_18.png|6_18.png|7_18.png|8_18.png|9_18.png|minus_18.png" X="294" Y="398" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="3" Alignment="2" Value_Src="2032" Spacing="0" Blanking="1"/>'
+        '<Widget Shape="31" Name="warn_weather" BitmapList="(-30):warn_cold_3.png|(-25):warn_cold_2.png|(-15):warn_cold_1.png|(-14):warn_weather_empty.png|(-4):warn_weather_empty.png|(-3):warn_cold_2.png|(2):warn_cold_2.png|(3):warn_weather_empty.png|(24):warn_weather_empty.png|(25):warn_hot_1.png|(28):warn_hot_2.png|(32):warn_hot_3.png" X="250" Y="368" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0" Index_Src="2031"/>':
+        '<Widget Shape="31" Name="warn_weather" BitmapList="(-30):warn_cold_3.png|(-25):warn_cold_2.png|(-15):warn_cold_1.png|(-14):warn_weather_empty.png|(-4):warn_weather_empty.png|(-3):warn_slippery.png|(2):warn_slippery.png|(3):warn_weather_empty.png|(24):warn_weather_empty.png|(25):warn_hot_1.png|(28):warn_hot_2.png|(32):warn_hot_3.png" X="250" Y="368" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0" Index_Src="2031"/>'
     }
 
     folder_path = 'C:/Users/DY/PycharmProjects/mi_band_9_pro_pip_girl_fallout_watchface/watchfaces_src'

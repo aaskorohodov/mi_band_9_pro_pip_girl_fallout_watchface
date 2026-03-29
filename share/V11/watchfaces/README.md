@@ -1,6 +1,7 @@
 Updates (V10 -> V11):
 
-- Min-Max temperature fix (now correctly displays 2 difits and minus sign)
+- Min-Max temperature fix (now correctly displays 2 digits and minus sign)
+- Slippery warning (weather warning) added, when temp is aroung 0c
 
 -------------------------------------------
 
