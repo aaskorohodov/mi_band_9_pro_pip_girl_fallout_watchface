@@ -2,6 +2,7 @@ Updates (V10 -> V11):
 
 - Min-Max temperature fix (now correctly displays 2 digits and minus sign)
 - Slippery warning (weather warning) added, when temp is aroung 0c
+- Kcal 4 digits bug fix
 
 -------------------------------------------
 
